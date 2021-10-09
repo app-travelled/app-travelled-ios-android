@@ -147,8 +147,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "app-travelled/1.0.0": {
@@ -312,8 +312,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "app-travelled/1.0.0": {
@@ -477,8 +477,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "app-travelled/1.0.0": {
@@ -642,8 +642,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "app-travelled/1.0.0": {
@@ -664,11 +664,10 @@
   },
   "libraries": {
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -711,11 +710,10 @@
       ]
     },
     "Xamarin.Essentials/1.6.1": {
-      "sha512": "gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
+      "sha512": "wHsjCmG/DUY1U5ebMhhh/BVquAM+gDKvgzxb8C8JcfypdxdBM5QcR3StXm3iDxgOsk1rxe2egO8gpC/Cj2R/Hg==",
       "type": "package",
       "path": "xamarin.essentials/1.6.1",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
         "icon.png",
@@ -762,11 +760,10 @@
       ]
     },
     "Xamarin.Forms/5.0.0.2012": {
-      "sha512": "Rqc6xvWR/sf+Db5+qRCFmuYTWVp04QWRfwPto2/JHbShSy4Ed53Q2jpoFzsoloXkJA6saD236PlaWAhT6vI4gw==",
+      "sha512": "3ThYCmuFJG47nqr1y9t18LjhUzRzNlQMPvZcGEo9mVE+Z6f4Ywwaqk8hZVJuFTe7HtSmNNBTnXys9WTwDhq71A==",
       "type": "package",
       "path": "xamarin.forms/5.0.0.2012",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "Assets/xamarin_128x128.png",
         "build/MonoAndroid10/proguard.cfg",
@@ -991,39 +988,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dade0\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/davide/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\app-travelled\\app-travelled\\app-travelled.iOS\\app-travelled.iOS.csproj",
+      "projectUniqueName": "/Users/davide/github/app-travelled/app-travelled-ios-android/app-travelled/app-travelled/app-travelled.iOS/app-travelled.iOS.csproj",
       "projectName": "app-travelled.iOS",
-      "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\app-travelled\\app-travelled\\app-travelled.iOS\\app-travelled.iOS.csproj",
-      "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\app-travelled\\app-travelled\\app-travelled.iOS\\obj\\",
+      "projectPath": "/Users/davide/github/app-travelled/app-travelled-ios-android/app-travelled/app-travelled/app-travelled.iOS/app-travelled.iOS.csproj",
+      "packagesPath": "/Users/davide/.nuget/packages/",
+      "outputPath": "/Users/davide/github/app-travelled/app-travelled-ios-android/app-travelled/app-travelled/app-travelled.iOS/obj",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/davide/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\app-travelled\\app-travelled\\app-travelled\\app-travelled.csproj": {
-              "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\app-travelled\\app-travelled\\app-travelled\\app-travelled.csproj"
+            "/Users/davide/github/app-travelled/app-travelled-ios-android/app-travelled/app-travelled/app-travelled/app-travelled.csproj": {
+              "projectPath": "/Users/davide/github/app-travelled/app-travelled-ios-android/app-travelled/app-travelled/app-travelled/app-travelled.csproj"
             }
           }
         }
