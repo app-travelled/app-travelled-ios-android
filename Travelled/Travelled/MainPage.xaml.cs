@@ -12,6 +12,8 @@ namespace Travelled
     {
         public MainPage()
         {
+            
+
             InitializeComponent();
         }
     }
