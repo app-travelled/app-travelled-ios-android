@@ -534,23 +534,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dade0\\.nuget\\packages\\": {},
+    "C:\\Users\\Skesky\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+      "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
       "projectName": "Travelled",
-      "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
-      "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
+      "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+      "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
