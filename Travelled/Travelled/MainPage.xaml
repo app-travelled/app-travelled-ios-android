@@ -3,10 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Travelled.MainPage">
 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Example Item"
+                 IconImageSource="MicrosoftTeams-image.png"
+                 Order="Primary"
+                 Priority="0" />
+    </ContentPage.ToolbarItems>
+
+
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Ci ho messo mano2" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
+
+        <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/menu-button-of-three-horizontal-lines.png"
+                         HorizontalOptions="End"
+                         Clicked="BackButton_Clicked"
+                         HeightRequest="35"
+                         WidthRequest="35"/>
+        <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/travelled_draw.png"
+                         HorizontalOptions="Start"
+                         Clicked="BackButton_Clicked"
+                         HeightRequest="40"
+                         WidthRequest="40"/>
+
+
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
         <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
         <Label FontSize="16" Padding="30,24,30,0">
@@ -20,5 +38,5 @@
             </Label.FormattedText>
         </Label>
     </StackLayout>
-
 </ContentPage>
+    

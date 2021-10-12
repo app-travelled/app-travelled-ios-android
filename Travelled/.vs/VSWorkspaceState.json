@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Travelled"
+    "\\Travelled",
+    "\\Travelled.Android"
   ],
-  "SelectedNode": "\\Travelled\\MainPage.xaml",
+  "SelectedNode": "\\Travelled.sln",
   "PreviewInSolutionExplorer": false
 }
