@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj": {}
+    "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj": {}
   },
   "projects": {
-    "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj": {
+    "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
         "projectName": "Travelled.Android",
-        "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
-        "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
+        "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+        "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-                "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+              "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+                "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+    "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+        "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
         "projectName": "Travelled",
-        "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
-        "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
+        "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+        "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
