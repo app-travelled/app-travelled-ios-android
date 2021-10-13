@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sVfMMlqelpOyg6b2CRnOXNqmWE63UVeFiVpbkgu6km8OqqFdUHFWnx6A2pix2Lp5QBmg8QQcpjV5E77LxzmuIg==",
+  "dgSpecHash": "2A10CnNmTkb6cks4KIesXD4y/dYKqQMX2QjtK0t8jvVkFokTCOvPbMCVjZRnyPXHilz34x9pfgH/v8frcFSOGg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+  "projectFilePath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dade0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
