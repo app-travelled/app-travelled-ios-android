@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "Travelled/1.0.0": {
         "dependencies": {
+          "LiveXAML": "2.1.73",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
@@ -17,6 +18,7 @@
           "Travelled.dll": {}
         }
       },
+      "LiveXAML/2.1.73": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
@@ -65,6 +67,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "LiveXAML/2.1.73": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WuyZAgaVvGIN4MoOR5VK3X8PFiCv3swffxzMd6Nf7cJIf32zCjbTgrkasY5K8NSNZ2U4y2nFgLAZ4oeqUvueEA==",
+      "path": "livexaml/2.1.73",
+      "hashPath": "livexaml.2.1.73.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

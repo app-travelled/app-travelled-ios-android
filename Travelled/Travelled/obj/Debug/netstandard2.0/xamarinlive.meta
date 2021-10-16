@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
+      <Hash>02-01-67-9C-65-63-CE-1B-A2-FE-66-00-86-70-BD-03</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
+      <Hash>67-51-A5-E1-4D-CC-CC-89-9F-70-B1-D4-7E-D0-E2-41</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>
