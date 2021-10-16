@@ -23,12 +23,12 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/menu-button-of-three-horizontal-lines.png"
+            <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/3.png"
                          HorizontalOptions="Start"
                          HeightRequest="35"
                          WidthRequest="35"
                          Grid.Row="0" Grid.Column="0"/>
-        <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/travelled_draw.png"
+            <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/plus.png"
                          HorizontalOptions="End"
                          HeightRequest="40"
                          WidthRequest="40"
