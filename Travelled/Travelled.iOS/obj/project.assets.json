@@ -2,6 +2,12 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "LiveXAML/2.1.73": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/_._": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -155,6 +161,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "LiveXAML": "2.1.73",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -167,6 +174,12 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "LiveXAML/2.1.73": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/_._": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -320,6 +333,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "LiveXAML": "2.1.73",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -332,6 +346,12 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "LiveXAML/2.1.73": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/_._": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -485,6 +505,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "LiveXAML": "2.1.73",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -497,6 +518,12 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "LiveXAML/2.1.73": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/_._": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -650,6 +677,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "LiveXAML": "2.1.73",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -663,6 +691,27 @@
     }
   },
   "libraries": {
+    "LiveXAML/2.1.73": {
+      "sha512": "WuyZAgaVvGIN4MoOR5VK3X8PFiCv3swffxzMd6Nf7cJIf32zCjbTgrkasY5K8NSNZ2U4y2nFgLAZ4oeqUvueEA==",
+      "type": "package",
+      "path": "livexaml/2.1.73",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netstandard2.0/LiveXAML.targets",
+        "build/netstandard2.0/XamarinLive.Build.dll",
+        "build/netstandard2.0/XamarinLive.Common.dll",
+        "build/netstandard2.0/minified.cs",
+        "build/netstandard2.0/minified.tpl.cs",
+        "build/portable-win+net45+wp80+win81+wpa81/LiveXAML.targets",
+        "build/portable-win+net45+wp80+win81+wpa81/XamarinLive.Build.dll",
+        "build/portable-win+net45+wp80+win81+wpa81/XamarinLive.Common.dll",
+        "build/portable-win+net45+wp80+win81+wpa81/minified.cs",
+        "build/portable-win+net45+wp80+win81+wpa81/minified.tpl.cs",
+        "livexaml.2.1.73.nupkg.sha512",
+        "livexaml.nuspec"
+      ]
+    },
     "System.Numerics.Vectors/4.5.0": {
       "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
@@ -991,24 +1040,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Skesky\\.nuget\\packages\\": {},
+    "C:\\Users\\Tedesco\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "projectUniqueName": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
       "projectName": "Travelled.iOS",
-      "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
-      "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
+      "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "packagesPath": "C:\\Users\\Tedesco\\.nuget\\packages\\",
+      "outputPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tedesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1022,8 +1071,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-              "projectPath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+            "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+              "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
             }
           }
         }
