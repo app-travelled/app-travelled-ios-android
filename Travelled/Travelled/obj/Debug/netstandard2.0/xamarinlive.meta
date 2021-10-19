@@ -2,37 +2,23 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
+      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
       <Hash>02-01-67-9C-65-63-CE-1B-A2-FE-66-00-86-70-BD-03</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1.xaml</FilePath>
-      <Hash>B9-05-6D-E0-62-84-0A-D8-93-11-BD-52-57-0F-4A-DB</Hash>
+      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
+      <Hash>32-4F-D2-24-E3-7A-2C-0E-03-D8-93-A4-AD-A4-5A-32</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Detail.xaml</FilePath>
-      <Hash>F1-39-AE-15-C6-D0-47-CC-6D-A7-65-F0-34-89-43-CA</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Flyout.xaml</FilePath>
-      <Hash>30-3A-B3-87-12-36-25-D2-E3-3B-0E-F6-C6-CA-05-D9</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>A7-3D-5A-C5-42-33-7A-69-28-FB-54-74-1C-66-1B-DB</Hash>
+      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <Hash>4D-B1-09-7A-9F-84-74-68-28-B3-6F-32-2F-4A-60-23</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>19-14-D3-E9-D2-65-72-54-0C-E7-01-FC-3A-C1-1C-0E</Hash>
+      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
+      <Hash>63-DB-C6-17-52-3E-60-4D-E4-4A-4E-CC-4B-89-10-12</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>
