@@ -3,42 +3,35 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Travelled.MainPage">
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Example Item"
-                 IconImageSource="MicrosoftTeams-image.png"
-                 Order="Primary"
-                 Priority="0" />
-    </ContentPage.ToolbarItems>
+    
 
     <StackLayout>
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" />
-            <RowDefinition Height="100" />
-            <RowDefinition Height="2*" />
-            <RowDefinition Height="1*" />
-        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="100" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
 
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
-        </Grid.ColumnDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
             <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/3.png"
                          HorizontalOptions="Start"
                          HeightRequest="35"
                          WidthRequest="35"
                          Grid.Row="0" Grid.Column="0"/>
-        
+
             <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/plus.png"
+                         Clicked="Button_Plus_Clicked"
                          HorizontalOptions="End"
                          HeightRequest="40"
                          WidthRequest="40"
                          Grid.Row="0" Grid.Column="1"/>
-        
-       
-    </Grid>
 
-        <Button Text="magarimuori" FontSize="Title" Clicked="Button_Clicked"/>
+        </Grid>
 
 
         <Image Source="https://www.3dcadbrowser.com/th/1/2/2182.jpg" 

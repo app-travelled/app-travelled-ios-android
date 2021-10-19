@@ -18,9 +18,9 @@ namespace Travelled
             InitializeComponent();
         }
 
-        void Button_Clicked(System.Object sender, System.EventArgs e)
+        private async void Button_Plus_Clicked(System.Object sender, System.EventArgs e)
         {
-            System.Diagnostics.Debug.Print("Funziona?!");
+            await Navigation.PushAsync(new FlyoutPage1());
         }
 
     }
