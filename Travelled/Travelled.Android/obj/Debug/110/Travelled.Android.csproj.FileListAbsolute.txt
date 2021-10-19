@@ -1727,3 +1727,5 @@ E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\ob
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\res\drawable\icona.png
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\res\drawable\worldwide.png
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\res\drawable\worldwide.png
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\res\drawable\icona.png

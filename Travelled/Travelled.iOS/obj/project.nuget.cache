@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JEEw1fky8V2+bx93ahMApGsXLeSUxxjNy+zmvfhAFkerr6Hs4vAtchUDVDOXqr9WvQvqP2lpLr6rD0OoNzlMCg==",
+  "dgSpecHash": "X54QsQw01zMcQ4y9ufi7IhEXg/GDuEUmKtJsCyMyBgY0+G2iP3GOOtRxtrSuOQLC2Lu+XpfjlAg10/eiSrzusQ==",
   "success": true,
-  "projectFilePath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+  "projectFilePath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tedesco\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dade0\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
+    "C:\\Users\\dade0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

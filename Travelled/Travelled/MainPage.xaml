@@ -28,12 +28,18 @@
                          HeightRequest="35"
                          WidthRequest="35"
                          Grid.Row="0" Grid.Column="0"/>
+        
             <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/plus.png"
                          HorizontalOptions="End"
                          HeightRequest="40"
                          WidthRequest="40"
                          Grid.Row="0" Grid.Column="1"/>
+        
+       
     </Grid>
+
+        <Button Text="magarimuori" FontSize="Title" Clicked="Button_Clicked"/>
+
 
         <Image Source="https://www.3dcadbrowser.com/th/1/2/2182.jpg" 
            

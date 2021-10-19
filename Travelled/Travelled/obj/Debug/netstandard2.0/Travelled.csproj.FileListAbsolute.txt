@@ -22,7 +22,6 @@ D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Tr
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.pdb
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.AssemblyReference.cache
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfoInputs.cache
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfo.cs
@@ -43,3 +42,8 @@ E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\ref\Travelled.dll
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.pdb
 E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\FlyoutPage1.xaml.g.cs
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\FlyoutPage1Detail.xaml.g.cs
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\FlyoutPage1Flyout.xaml.g.cs
+D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs
