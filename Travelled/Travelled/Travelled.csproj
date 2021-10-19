@@ -17,22 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="FlyoutPage1.xaml.cs">
-      <DependentUpon>FlyoutPage1.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="Visited.xaml.cs">
-      <DependentUpon>Visited.xaml</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Update="FlyoutPage1.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="FlyoutPage1Detail.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="FlyoutPage1Flyout.xaml">
+    <EmbeddedResource Update="Tovisit.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Visited.xaml">
