@@ -2170,24 +2170,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tedesco\\.nuget\\packages\\": {},
+    "C:\\Users\\dade0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+      "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
       "projectName": "Travelled.Android",
-      "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
-      "packagesPath": "C:\\Users\\Tedesco\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
+      "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+      "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tedesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2201,8 +2201,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-              "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+            "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+              "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
             }
           }
         }

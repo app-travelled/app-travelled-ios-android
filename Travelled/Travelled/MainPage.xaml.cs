@@ -10,11 +10,18 @@ namespace Travelled
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        
+
+        public MainPage() 
         {
-            
 
             InitializeComponent();
         }
+
+        private async void Button_Plus_Clicked(System.Object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new FlyoutPage1());
+        }
+
     }
 }
