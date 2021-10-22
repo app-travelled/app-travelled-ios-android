@@ -19,13 +19,16 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/3.png"
+                         x:Name="ButtonVisited"
+                         Clicked="ButtonVisited_Clicked"
                          HorizontalOptions="Start"
                          HeightRequest="35"
                          WidthRequest="35"
                          Grid.Row="0" Grid.Column="0"/>
 
             <ImageButton Source="https://raw.githubusercontent.com/app-travelled/logos/main/plus.png"
-                         Clicked="Button_Plus_Clicked"
+                         x:Name="ButtonToVisit"
+                         Clicked="ButtonToVisit_Clicked"
                          HorizontalOptions="End"
                          HeightRequest="40"
                          WidthRequest="40"

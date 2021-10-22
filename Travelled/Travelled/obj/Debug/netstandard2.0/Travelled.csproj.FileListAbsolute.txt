@@ -4,7 +4,6 @@ C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\bin
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.pdb
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.AssemblyReference.cache
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfoInputs.cache
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfo.cs
@@ -47,3 +46,6 @@ D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Tr
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\FlyoutPage1Detail.xaml.g.cs
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\FlyoutPage1Flyout.xaml.g.cs
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs
+C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Tovisit.xaml.g.cs
+C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs
