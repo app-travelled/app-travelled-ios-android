@@ -2176,11 +2176,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
       "projectName": "Travelled.Android",
       "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
       "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+      "projectName": "Travelled.Android",
+      "projectPath": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+      "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2201,8 +2209,13 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
+<<<<<<< Updated upstream
             "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
               "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+=======
+            "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+              "projectPath": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+>>>>>>> Stashed changes
             }
           }
         }

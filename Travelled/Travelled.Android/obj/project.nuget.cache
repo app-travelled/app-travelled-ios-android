@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "k4uqGM+NTapspUMh4wiyWnDGRSWEA/7WcTIFl26gcoV89C+rHzqLxmAsFw/5LtDP0UwkzW0rYQfucHIifxFwoA==",
   "success": true,
   "projectFilePath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+=======
+  "dgSpecHash": "mxSCZWfQUEVDNHDdc4nEkW1xUxqJUfmkDFu/CbJR3C27CMl3x6Okm5kHBeqR5RoItKMm7GGYda/evdJFgg08CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\dade0\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\dade0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
