@@ -3,36 +3,22 @@
   <Files>
     <XamlFileMeta>
       <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
-      <Hash>02-01-67-9C-65-63-CE-1B-A2-FE-66-00-86-70-BD-03</Hash>
+      <Hash>28-FC-24-AB-6A-CA-64-BC-18-9F-30-1F-72-66-35-3E</Hash>
       <Properties />
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1.xaml</FilePath>
-      <Hash>B9-05-6D-E0-62-84-0A-D8-93-11-BD-52-57-0F-4A-DB</Hash>
-      <Properties />
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Detail.xaml</FilePath>
-      <Hash>F1-39-AE-15-C6-D0-47-CC-6D-A7-65-F0-34-89-43-CA</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Flyout.xaml</FilePath>
-      <Hash>30-3A-B3-87-12-36-25-D2-E3-3B-0E-F6-C6-CA-05-D9</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>B3-C3-5A-08-B3-F7-A9-AC-56-3E-FE-47-4A-A7-6C-0F</Hash>
+      <Hash>32-4F-D2-24-E3-7A-2C-0E-03-D8-93-A4-AD-A4-5A-32</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <Hash>77-8B-0E-DA-66-2E-38-04-7B-47-95-BB-21-B8-D0-8A</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>19-14-D3-E9-D2-65-72-54-0C-E7-01-FC-3A-C1-1C-0E</Hash>
+      <Hash>32-6B-0A-14-05-25-7D-BA-9B-AF-B1-2D-B7-04-34-D4</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>
