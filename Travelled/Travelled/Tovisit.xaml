@@ -6,8 +6,8 @@
         <StackLayout>
             <Label Text="Tutto per te maestro!"
                    FontSize="Large"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
