@@ -1,9 +1,11 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+[assembly: ExportFont("Samantha.ttf")]
 
 namespace Travelled
 {
+
     public partial class App : Application
     {
         public App()

@@ -2,23 +2,23 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
       <Hash>02-01-67-9C-65-63-CE-1B-A2-FE-66-00-86-70-BD-03</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
       <Hash>32-4F-D2-24-E3-7A-2C-0E-03-D8-93-A4-AD-A4-5A-32</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
       <Hash>4D-B1-09-7A-9F-84-74-68-28-B3-6F-32-2F-4A-60-23</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>63-DB-C6-17-52-3E-60-4D-E4-4A-4E-CC-4B-89-10-12</Hash>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
+      <Hash>B2-9A-F9-0B-11-EF-C2-97-03-22-6E-14-4F-7C-B3-7F</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>

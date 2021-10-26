@@ -7,32 +7,18 @@
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1.xaml</FilePath>
-      <Hash>B9-05-6D-E0-62-84-0A-D8-93-11-BD-52-57-0F-4A-DB</Hash>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
+      <Hash>32-4F-D2-24-E3-7A-2C-0E-03-D8-93-A4-AD-A4-5A-32</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Detail.xaml</FilePath>
-      <Hash>F1-39-AE-15-C6-D0-47-CC-6D-A7-65-F0-34-89-43-CA</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\FlyoutPage1Flyout.xaml</FilePath>
-      <Hash>30-3A-B3-87-12-36-25-D2-E3-3B-0E-F6-C6-CA-05-D9</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>B3-C3-5A-08-B3-F7-A9-AC-56-3E-FE-47-4A-A7-6C-0F</Hash>
+      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <Hash>4D-B1-09-7A-9F-84-74-68-28-B3-6F-32-2F-4A-60-23</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>19-14-D3-E9-D2-65-72-54-0C-E7-01-FC-3A-C1-1C-0E</Hash>
+      <Hash>B2-9A-F9-0B-11-EF-C2-97-03-22-6E-14-4F-7C-B3-7F</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>
