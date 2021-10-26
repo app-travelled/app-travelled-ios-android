@@ -1,17 +1,11 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "k4uqGM+NTapspUMh4wiyWnDGRSWEA/7WcTIFl26gcoV89C+rHzqLxmAsFw/5LtDP0UwkzW0rYQfucHIifxFwoA==",
+  "dgSpecHash": "Anttpj9wHkTGphj/8QYnR8KfOWIDO/aYSXud0Qj2P0eYhdbaWKHH7biEJc0XT9fgb/YsRCAk1BXnw445ZQA5fA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
-=======
-  "dgSpecHash": "mxSCZWfQUEVDNHDdc4nEkW1xUxqJUfmkDFu/CbJR3C27CMl3x6Okm5kHBeqR5RoItKMm7GGYda/evdJFgg08CA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\dade0\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
->>>>>>> Stashed changes
+  "projectFilePath": "C:\\Users\\Skesky\\Desktop\\github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dade0\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
-    "C:\\Users\\dade0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
