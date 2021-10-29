@@ -4,7 +4,13 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Travelled.Android.dll" comes first in this list. */
 		"Travelled.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.Share.Abstractions.dll",
+		"Plugin.Share.dll",
 		"Travelled.dll",
+		"Xamarin.Android.Support.Annotations.dll",
+		"Xamarin.Android.Support.Compat.dll",
+		"Xamarin.Android.Support.CustomTabs.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
