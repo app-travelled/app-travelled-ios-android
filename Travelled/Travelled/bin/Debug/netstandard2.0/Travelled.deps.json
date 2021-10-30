@@ -11,6 +11,7 @@
         "dependencies": {
           "LiveXAML": "2.1.73",
           "NETStandard.Library": "2.0.3",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -23,6 +24,21 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.Share/7.1.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Plugin.Share.Abstractions.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          },
+          "lib/netstandard1.0/Plugin.Share.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -88,6 +104,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.Share/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-07mFq3H9eeX2TGNKitmByjDKZl/3KXZrT2jv/27mEEnY7me/lHQSX52mI0B1mVTZquCloNmZm12EcV1t4fFSSA==",
+      "path": "plugin.share/7.1.1",
+      "hashPath": "plugin.share.7.1.1.nupkg.sha512"
     },
     "System.Numerics.Vectors/4.5.0": {
       "type": "package",

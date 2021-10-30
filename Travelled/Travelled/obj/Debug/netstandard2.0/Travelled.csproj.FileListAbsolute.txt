@@ -47,3 +47,5 @@ C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Tovisit.xaml.g.cs
 C:\Users\Skesky\Desktop\github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Tovisit.xaml.g.cs
+E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Tovisit.xaml.g.cs
+E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs

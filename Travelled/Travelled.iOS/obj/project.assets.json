@@ -8,6 +8,17 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "Plugin.Share/7.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -162,6 +173,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "LiveXAML": "2.1.73",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -180,6 +192,17 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "Plugin.Share/7.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -334,6 +357,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "LiveXAML": "2.1.73",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -352,6 +376,17 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "Plugin.Share/7.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -506,6 +541,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "LiveXAML": "2.1.73",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -524,6 +560,17 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "Plugin.Share/7.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Share.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -678,6 +725,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "LiveXAML": "2.1.73",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -710,6 +758,42 @@
         "build/portable-win+net45+wp80+win81+wpa81/minified.tpl.cs",
         "livexaml.2.1.73.nupkg.sha512",
         "livexaml.nuspec"
+      ]
+    },
+    "Plugin.Share/7.1.1": {
+      "sha512": "07mFq3H9eeX2TGNKitmByjDKZl/3KXZrT2jv/27mEEnY7me/lHQSX52mI0B1mVTZquCloNmZm12EcV1t4fFSSA==",
+      "type": "package",
+      "path": "plugin.share/7.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Share.dll",
+        "lib/MonoAndroid10/Plugin.Share.pdb",
+        "lib/MonoAndroid10/Plugin.Share.xml",
+        "lib/UAP10/Plugin.Share.Abstractions.dll",
+        "lib/UAP10/Plugin.Share.Abstractions.pdb",
+        "lib/UAP10/Plugin.Share.Abstractions.xml",
+        "lib/UAP10/Plugin.Share.XML",
+        "lib/UAP10/Plugin.Share.dll",
+        "lib/UAP10/Plugin.Share.pdb",
+        "lib/UAP10/Plugin.Share.pri",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Share.dll",
+        "lib/Xamarin.iOS10/Plugin.Share.xml",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Share.deps.json",
+        "lib/netstandard1.0/Plugin.Share.dll",
+        "lib/netstandard1.0/Plugin.Share.pdb",
+        "lib/netstandard1.0/Plugin.Share.xml",
+        "plugin.share.7.1.1.nupkg.sha512",
+        "plugin.share.nuspec"
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
@@ -1034,30 +1118,31 @@
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
+      "Plugin.Share >= 7.1.1",
       "Travelled >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dade0\\.nuget\\packages\\": {},
+    "C:\\Users\\Tedesco\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "projectUniqueName": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
       "projectName": "Travelled.iOS",
-      "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
-      "packagesPath": "C:\\Users\\dade0\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
+      "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "packagesPath": "C:\\Users\\Tedesco\\.nuget\\packages\\",
+      "outputPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dade0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tedesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1071,8 +1156,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-              "projectPath": "D:\\Users\\DAVIDE\\OneDrive\\Documenti\\GitHub\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+            "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+              "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
             }
           }
         }
@@ -1081,6 +1166,10 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
+          "Plugin.Share": {
+            "target": "Package",
+            "version": "[7.1.1, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.6.1, )"
