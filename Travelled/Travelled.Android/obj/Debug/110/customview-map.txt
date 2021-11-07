@@ -21,8 +21,6 @@ com.google.android.material.bottomnavigation.BottomNavigationView;E:\github\app-
 com.google.android.material.tabs.TabLayout;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\layout\tabbar.xml
-crc643f46942d9dd1fff9.ShellFlyoutLayout;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\layout\flyoutcontent.xml
-crc64720bb2db43a66fe9.FormsViewPager;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
 declare-styleable;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\47\jl\res\values\attrs.xml
 external-cache-path;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;E:\github\app-travelled\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml

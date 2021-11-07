@@ -1,39 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "v08lC+2BtqvghslLcwAeF7PNDFnJHwxnQWLvblP04bsTxBag3F1Vgqr/JYTRVoaiS+vMux0LCgNN32rHUt3q0g==",
+  "dgSpecHash": "76tSzTcwBukeup4ejTc35Yw9jGmJrrTdfEGWMaItYHUEA0fnD3QfOTpV/X81SlivlcErZT8/Uy6f08aCq2K6vw==",
   "success": true,
   "projectFilePath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tedesco\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\Tedesco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Tedesco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512",
     "C:\\Users\\Tedesco\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
     "C:\\Users\\Tedesco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'OpenTK 3.1.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' e non mediante il framework di destinazione del progetto '.NETStandard,Version=v2.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "OpenTK",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'OpenTK.GLControl 3.1.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' e non mediante il framework di destinazione del progetto '.NETStandard,Version=v2.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "OpenTK.GLControl",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -9,7 +9,6 @@ using Xamarin.Forms.Xaml;
 using Plugin.Share;
 using System.Diagnostics;
 
-
 namespace Travelled
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
