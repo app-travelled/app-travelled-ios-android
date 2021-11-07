@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "76tSzTcwBukeup4ejTc35Yw9jGmJrrTdfEGWMaItYHUEA0fnD3QfOTpV/X81SlivlcErZT8/Uy6f08aCq2K6vw==",
+  "dgSpecHash": "DwPLK5f7oREW9ltIswybXaa7SkZelrkM+mt4gmIQcRs9I/n/7HqqD4GoCsZJyIS1+OYo2pHeyx6Neu0fI8RH5A==",
   "success": true,
-  "projectFilePath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+  "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tedesco\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
-    "C:\\Users\\Tedesco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/Federico/.nuget/packages/livexaml/2.1.73/livexaml.2.1.73.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/plugin.share/7.1.1/plugin.share.7.1.1.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
