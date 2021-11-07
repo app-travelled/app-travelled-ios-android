@@ -5,19 +5,32 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.Content>
         <StackLayout>
-            
-            <Grid ColumnDefinitions="2*,2*" RowDefinitions="2*, 2*, 2*">
 
+            <Entry
+                VerticalOptions="Center"
+                    x:Name="ToVisit"
+                    Placeholder="Where do you wanna go?"/>
+            
                 <Button
-                    Grid.Row="2"
+                    VerticalOptions="End"
+                    HorizontalOptions="Center"
+                    FontSize="Header"
+                    Clicked="FeelLuckyClicked"
+                    Text="I feel lucky!" />
+
+            <Grid ColumnDefinitions="2*,2*" RowDefinitions="2*, 2*, 2*">
+                <Button
+                    Grid.Row="10"
                     Grid.Column="0"
+                    FontSize="Header"
                     Clicked="OnActionSheetSimpleClicked"
                     Text="Share" />
 
                 <Button
-                    Grid.Row="2"
+                    Grid.Row="10"
                     Grid.Column="1"
-                    Clicked="Credits_Button_Clicked"
+                    FontSize="Header"
+                    Clicked="CreditsButtonClicked"
                     Text="Credits" />
             </Grid>
 
