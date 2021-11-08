@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E0430ADF-F966-4D39-B238-2DF339B30CD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/Tovisit.xaml.cs">
+    <Files>
+      <File FileName="Travelled/Tovisit.xaml" Line="15" Column="42" />
+      <File FileName="Travelled/Tovisit.xaml.cs" Line="32" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travelled" expanded="True">
+            <Node name="Travelled" expanded="True">
+              <Node name="Tovisit.xaml" expanded="True">
+                <Node name="Tovisit.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Travelled.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Travelled.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Travelled.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A31E561-FD9F-4BA0-9069-E3E3FDBEFBDD" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

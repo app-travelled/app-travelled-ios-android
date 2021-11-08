@@ -1125,39 +1125,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tedesco\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/Federico/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
       "projectName": "Travelled.iOS",
-      "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
-      "packagesPath": "C:\\Users\\Tedesco\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
+      "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
+      "packagesPath": "/Users/Federico/.nuget/packages/",
+      "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tedesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/Federico/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-              "projectPath": "E:\\github\\app-travelled\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+            "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj": {
+              "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj"
             }
           }
         }
