@@ -1,4 +1,4 @@
-# Copyright (C) 2016 The Android Open Source Project
+# Copyright (C) 2020 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,8 +12,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# keep setters in VectorDrawables so that animations can still work.
--keepclassmembers class androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$* {
-   void set*(***);
-   *** get*();
-}
+# Ignore missing Kotlin meta-annotations so that this library can be used
+# without adding a compileOnly dependency on the Kotlin standard library.
+-dontwarn kotlin.Deprecated
+-dontwarn kotlin.Metadata
+-dontwarn kotlin.ReplaceWith
+-dontwarn kotlin.annotation.AnnotationRetention
+-dontwarn kotlin.annotation.AnnotationTarget
+-dontwarn kotlin.annotation.Retention
+-dontwarn kotlin.annotation.Target
