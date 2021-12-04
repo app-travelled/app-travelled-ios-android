@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JcOUnNj7JwcYjgl0ZdPwBKQncRGZ1lGBNAgIglldyAzHrVuhk7VSo0ggF3av5rIEMQ1JmYMLrW8ufq+Wbw44cQ==",
+  "dgSpecHash": "8pOsEPrEINEcXg/864Zzng24ezTp48KbPelg9IHhF9jmCI7sQYbqLZRiY/PHb/H3YwlHGi69SV5vc0lnl4Tshg==",
   "success": true,
   "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.Android/Travelled.Android.csproj",
   "expectedPackageFiles": [
@@ -73,7 +73,8 @@
     "/Users/Federico/.nuget/packages/xamarin.googleplayservices.base/117.1.0/xamarin.googleplayservices.base.117.1.0.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.googleplayservices.basement/117.1.0/xamarin.googleplayservices.basement.117.1.0.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.googleplayservices.maps/117.0.0/xamarin.googleplayservices.maps.117.0.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.tasks/117.0.0/xamarin.googleplayservices.tasks.117.0.0.nupkg.sha512"
+    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.tasks/117.0.0/xamarin.googleplayservices.tasks.117.0.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

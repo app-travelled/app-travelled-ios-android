@@ -126,6 +126,10 @@
             "Xamarin.Forms.Maps": {
               "target": "Package",
               "version": "[5.0.0.2244, )"
+            },
+            "Xamarin.Plugin.SharedTransitions": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             }
           },
           "imports": [

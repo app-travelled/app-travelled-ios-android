@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "npptCSEtSLu4PjwSa6eiOdvoupKGyVDB7y6y6MjQNHqWYzVQPXVp4Uwx6muxHtgUwpPqcQInmD/Ncte1abIoFQ==",
+  "dgSpecHash": "39Hxdes2zRPMEyRT9UgUfG1EdrY3JseXgRI1BHLkzjLKX4A4doQ+UuwXe3S6MmKGnBA848jM+lKsveCQQcDCzA==",
   "success": true,
   "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "/Users/Federico/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2244/xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512"
+    "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

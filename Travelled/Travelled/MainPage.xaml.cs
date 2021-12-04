@@ -20,12 +20,13 @@ namespace Travelled
 
         private void ButtonVisited_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Visited());
+            Navigation.PushAsync(new Tovisit());
+
         }
 
         private void ButtonToVisit_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Tovisit());
+            Navigation.PushAsync(new Visited());
         }
 
         void OnSliderValueChanged(object sender, ValueChangedEventArgs e)
@@ -54,5 +55,6 @@ namespace Travelled
                     break;
             }
         }
+        
     }
 }

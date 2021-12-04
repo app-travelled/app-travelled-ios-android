@@ -1,26 +1,13 @@
 ﻿<Properties StartupConfiguration="{E0430ADF-F966-4D39-B238-2DF339B30CD7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/App.xaml.cs">
     <Files>
-      <File FileName="Travelled.iOS/AppDelegate.cs" Line="27" Column="38" />
-      <File FileName="Travelled.Android/MainActivity.cs" Line="30" Column="10" />
-      <File FileName="Travelled.iOS/Main.cs" Line="17" Column="13" />
+      <File FileName="Travelled/App.xaml.cs" Line="38" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Travelled" expanded="True">
-            <Node name="Travelled" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Travelled.Android" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
-            <Node name="Travelled.iOS" expanded="True">
-              <Node name="Packages" expanded="True" />
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="Travelled" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,7 +15,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Travelled.Android PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Travelled.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.835EFAEF-310E-4EC6-9D1C-6FCB86BB6EFD" />
+  <MonoDevelop.Ide.ItemProperties.Travelled.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A31E561-FD9F-4BA0-9069-E3E3FDBEFBDD" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -24,11 +24,11 @@ public final class R {
 		public static final int design_bottom_sheet_slide_out = 0x7f010019;
 		public static final int design_snackbar_in = 0x7f01001a;
 		public static final int design_snackbar_out = 0x7f01001b;
-		public static final int fragment_fast_out_extra_slow_in = 0x7f010020;
-		public static final int nav_default_enter_anim = 0x7f010024;
-		public static final int nav_default_exit_anim = 0x7f010025;
-		public static final int nav_default_pop_enter_anim = 0x7f010026;
-		public static final int nav_default_pop_exit_anim = 0x7f010027;
+		public static final int fragment_fast_out_extra_slow_in = 0x7f01002c;
+		public static final int nav_default_enter_anim = 0x7f010030;
+		public static final int nav_default_exit_anim = 0x7f010031;
+		public static final int nav_default_pop_enter_anim = 0x7f010032;
+		public static final int nav_default_pop_exit_anim = 0x7f010033;
 	}
 	public static final class animator {
 		public static final int design_appbar_state_list_animator = 0x7f020000;
