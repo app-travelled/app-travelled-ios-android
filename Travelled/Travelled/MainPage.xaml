@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Travelled.MainPage">
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="Travelled.MainPage"
+             Title="Main Page">
 
     
 
@@ -37,10 +39,27 @@
         </Grid>
 
 
-        <Image Source="https://www.3dcadbrowser.com/th/1/2/2182.jpg" 
+        
+        <!--<Image Source="https://www.3dcadbrowser.com/th/1/2/2182.jpg" 
            
                HorizontalOptions="CenterAndExpand"
-               VerticalOptions="CenterAndExpand"/>
+               VerticalOptions="CenterAndExpand"/>-->
+        <maps:Map x:Name="map" />
+        <Slider Margin="20,0,20,0"
+                Maximum="18"
+                Minimum="1"
+                Value="12"
+                ValueChanged="OnSliderValueChanged" />
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center"
+                     Spacing="30">
+            <Button Text="Street"
+                    Clicked="OnButtonClicked" />
+            <Button Text="Satellite"
+                    Clicked="OnButtonClicked" />
+            <Button Text="Hybrid"
+                    Clicked="OnButtonClicked" />
+        </StackLayout>
     </StackLayout>
 
 

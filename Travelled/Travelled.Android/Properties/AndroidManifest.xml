@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.travelled" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="22" android:targetSdkVersion="30" />
-	<application android:label="Travelled.Android" android:theme="@style/MainTheme"></application>
+	<application android:label="Travelled.Android" android:theme="@style/MainTheme">
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDjvt0WiWk_A2bghQSxL5PRqvi4nnc99C0" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+		<!-- Necessary for apps that target Android 9.0 or higher -->
+		<uses-library android:name="org.apache.http.legacy" android:required="false" />
+	</application>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 </manifest>

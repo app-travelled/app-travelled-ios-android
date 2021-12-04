@@ -1,33 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj": {}
+    "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj": {}
   },
   "projects": {
-    "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj": {
+    "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
         "projectName": "Travelled.iOS",
-        "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
-        "packagesPath": "/Users/Federico/.nuget/packages/",
-        "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/",
+        "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+        "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/Federico/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj": {
-                "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj"
+              "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+                "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
               }
             }
           }
@@ -42,11 +50,11 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2244, )"
             }
           }
         }
@@ -63,22 +71,30 @@
         }
       }
     },
-    "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj": {
+    "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
+        "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
         "projectName": "Travelled",
-        "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
-        "packagesPath": "/Users/Federico/.nuget/packages/",
-        "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/",
+        "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+        "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/Federico/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,11 +129,15 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2244, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[5.0.0.2244, )"
             }
           },
           "imports": [
@@ -130,7 +150,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
