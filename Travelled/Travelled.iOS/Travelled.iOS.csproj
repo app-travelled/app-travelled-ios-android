@@ -128,11 +128,14 @@
     </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2244" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Xamarin.Forms.Maps">
+      <Version>5.0.0.2244</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Travelled\Travelled.csproj">
-      <Project>{5FC72A1F-FE9A-4A4F-8F60-11E25A682CDF}</Project>
+      <Project>{1AA739B8-5550-4D3C-A834-1D4BFDFB5886}</Project>
       <Name>Travelled</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "M1G8BcBvzDN0N1zovff9pv6jLuJ0c6gYcjG5QhCNnPlUZx1VXNYdA7Hc0vgoifmMe4dLb2G6B8xkUHhgJPqcog==",
+  "dgSpecHash": "npptCSEtSLu4PjwSa6eiOdvoupKGyVDB7y6y6MjQNHqWYzVQPXVp4Uwx6muxHtgUwpPqcQInmD/Ncte1abIoFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+  "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2244\\xamarin.forms.maps.5.0.0.2244.nupkg.sha512"
+    "/Users/Federico/.nuget/packages/livexaml/2.1.73/livexaml.2.1.73.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/plugin.share/7.1.1/plugin.share.7.1.1.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2244/xamarin.forms.5.0.0.2244.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512"
   ],
   "logs": []
 }

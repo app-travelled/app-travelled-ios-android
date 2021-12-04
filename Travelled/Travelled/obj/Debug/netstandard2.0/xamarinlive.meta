@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<XamlProjectMeta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Files>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
-      <Hash>09-6B-85-1A-2C-A9-F8-22-5C-F3-A5-7E-69-94-9A-38</Hash>
+      <FilePath>/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/App.xaml</FilePath>
+      <Hash>D7-2A-C2-3B-64-54-56-2D-D9-3D-D6-67-B6-93-EC-E1</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>EB-C6-99-33-6C-45-F6-34-DE-F2-B4-7A-AA-49-BF-FE</Hash>
+      <FilePath>/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/MainPage.xaml</FilePath>
+      <Hash>1B-E8-A8-20-D5-36-CD-27-97-4B-0A-46-A5-F3-E9-8D</Hash>
       <Properties>
         <string>Title</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
-      <Hash>E1-6B-97-84-3A-E1-69-CE-D3-D3-27-78-63-46-D3-31</Hash>
+      <FilePath>/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Tovisit.xaml</FilePath>
+      <Hash>8C-9D-C5-B0-A0-EA-FD-ED-5A-D2-A1-0E-6E-48-94-DC</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>B2-9A-F9-0B-11-EF-C2-97-03-22-6E-14-4F-7C-B3-7F</Hash>
+      <FilePath>/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Visited.xaml</FilePath>
+      <Hash>C3-67-2A-0C-06-98-EA-64-31-48-8E-13-4D-E4-3B-05</Hash>
       <Properties />
     </XamlFileMeta>
   </Files>
