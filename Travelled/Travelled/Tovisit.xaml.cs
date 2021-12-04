@@ -37,6 +37,13 @@ namespace Travelled
             string action = await DisplayActionSheet("ActionSheet: Send to?", "Cancel", null, "Email", "Twitter", "Facebook");
             Debug.WriteLine("Action: " + action);
         }
+
+        async void OnLogoutButtonClicked(object sender, EventArgs e)
+        {
+            App.IsUserLoggedIn = false;
+            Navigation.InsertPageBefore(new LoginPageCS(), this);
+            await Navigation.PopAsync();
+        }
     }
 
 }

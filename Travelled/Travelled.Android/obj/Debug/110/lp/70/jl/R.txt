@@ -1,6 +1,4 @@
 int attr alpha 0x0
-int attr drawerLayoutStyle 0x0
-int attr elevation 0x0
 int attr font 0x0
 int attr fontProviderAuthority 0x0
 int attr fontProviderCerts 0x0
@@ -23,7 +21,6 @@ int dimen compat_button_padding_vertical_material 0x0
 int dimen compat_control_corner_material 0x0
 int dimen compat_notification_large_icon_max_height 0x0
 int dimen compat_notification_large_icon_max_width 0x0
-int dimen def_drawer_elevation 0x0
 int dimen notification_action_icon_size 0x0
 int dimen notification_action_text_size 0x0
 int dimen notification_big_circle_margin 0x0
@@ -138,8 +135,6 @@ int[] styleable ColorStateListItem { 0x0, 0x101031f, 0x10101a5 }
 int styleable ColorStateListItem_alpha 0
 int styleable ColorStateListItem_android_alpha 1
 int styleable ColorStateListItem_android_color 2
-int[] styleable DrawerLayout { 0x0 }
-int styleable DrawerLayout_elevation 0
 int[] styleable FontFamily { 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable FontFamily_fontProviderAuthority 0
 int styleable FontFamily_fontProviderCerts 1

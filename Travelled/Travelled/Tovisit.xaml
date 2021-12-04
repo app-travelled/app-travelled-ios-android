@@ -14,22 +14,30 @@
                 <Button
                     VerticalOptions="End"
                     HorizontalOptions="Center"
-                    FontSize="Header"
+                    FontSize="Medium"
                     Clicked="FeelLuckyClicked"
                     Text="I feel lucky!" />
 
-            <Grid ColumnDefinitions="2*,2*" RowDefinitions="2*, 2*, 2*">
+            <Grid ColumnDefinitions="1*,1*" RowDefinitions="1*, 1*, 1*">
                 <Button
                     Grid.Row="10"
                     Grid.Column="0"
-                    FontSize="Header"
+                    FontSize="Body"
                     Clicked="OnActionSheetSimpleClicked"
                     Text="Share" />
 
                 <Button
                     Grid.Row="10"
                     Grid.Column="1"
-                    FontSize="Header"
+                    FontSize="Body"
+                    Clicked="OnLogoutButtonClicked"
+                    Text="Logout" />
+
+
+                 <Button
+                    Grid.Row="10"
+                    Grid.Column="2"
+                    FontSize="Body"
                     Clicked="CreditsButtonClicked"
                     Text="Credits" />
             </Grid>
