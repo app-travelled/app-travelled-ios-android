@@ -723,6 +723,7 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,windows,macos,xamarinstudio,unity,android,androidstudio
 
 #Specific file ignores
+.json
 
 /Travelled/.vs/Travelled/xs/project-cache/Travelled.iOS-Debug\|iPhone.json
 
