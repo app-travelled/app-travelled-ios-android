@@ -68,3 +68,4 @@ C:/Users/Skesky/Desktop/Github/app-travelled-ios-android/Travelled/Travelled/obj
 C:/Users/Skesky/Desktop/Github/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/Travelled.csproj.AssemblyReference.cache
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/SignUpPage.xaml.g.cs
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/CreditsPage.xaml.g.cs

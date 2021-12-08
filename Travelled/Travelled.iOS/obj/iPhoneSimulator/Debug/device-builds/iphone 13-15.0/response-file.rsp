@@ -209,4 +209,5 @@
 --reference=/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2244/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 --reference=/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
 --reference=/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
+--reference=/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/lib/xamarinios10/Plugin.SharedTransitions.dll
 --reference=/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/bin/Debug/netstandard2.0/Travelled.dll

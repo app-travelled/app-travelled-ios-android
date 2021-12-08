@@ -55,15 +55,15 @@
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.pdb
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_PartialAppManifest.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_ProcessedImageAssetsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/ibtool/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_PartialAppManifest.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_ProcessedCoreMLModelsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/_ProcessedBundleResourcesPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/_ProcessedContentPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/optimized/
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.SharedTransitions.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_PartialAppManifest.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_ProcessedImageAssetsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_PartialAppManifest.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/_ProcessedBundleResourcesPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/_ProcessedContentPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/optimized/
