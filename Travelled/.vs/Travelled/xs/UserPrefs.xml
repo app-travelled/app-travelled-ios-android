@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{E0430ADF-F966-4D39-B238-2DF339B30CD7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/Tovisit.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/CreditsPage.xaml">
     <Files>
-      <File FileName="Travelled/Tovisit.xaml" Line="15" Column="42" />
-      <File FileName="Travelled/Tovisit.xaml.cs" Line="32" Column="80" />
+      <File FileName="Travelled/CreditsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Travelled/CreditsPage.xaml" Line="16" Column="33" />
+      <File FileName="Travelled/Tovisit.xaml.cs" Line="3" Column="1" />
+      <File FileName="Travelled/Tovisit.xaml" Line="6" Column="40" />
+      <File FileName="Travelled/Visited.xaml" Line="5" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Travelled" expanded="True">
             <Node name="Travelled" expanded="True">
-              <Node name="Tovisit.xaml" expanded="True">
-                <Node name="Tovisit.xaml.cs" selected="True" />
-              </Node>
+              <Node name="CreditsPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Tovisit.xaml" expanded="True" />
+              <Node name="Visited.xaml" expanded="True" />
             </Node>
-            <Node name="Travelled.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Travelled.Android PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Travelled.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A31E561-FD9F-4BA0-9069-E3E3FDBEFBDD" />
+  <MonoDevelop.Ide.ItemProperties.Travelled.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.835EFAEF-310E-4EC6-9D1C-6FCB86BB6EFD" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

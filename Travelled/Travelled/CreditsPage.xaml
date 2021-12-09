@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Travelled.CreditsPage"
+    Title="Credits">
+    <StackLayout>
+         
+
+           <Label Text="Travelled Version 1.0"
+                           TextDecorations="Underline"
+             HorizontalOptions="Center"
+                VerticalOptions="Fill"
+                   />
+
+            <Label Text="Authors"
+                FontSize="Title"
+             Grid.Row="0" Grid.Column="0"
+             HorizontalOptions="Center"
+                />
+
+            <Label Text="Kevin Santodonato"
+             Grid.Row="1" Grid.Column="0"
+             HorizontalOptions="Center"
+
+
+                   />
+            
+            <Label Text="Davide Latini"
+             Grid.Row="2" Grid.Column="0"
+             HorizontalOptions="Center"
+
+                   />
+
+            <Label Text="Davide Tedesco"
+            Grid.Row="3" Grid.Column="0"
+             HorizontalOptions="Center"
+
+                   />
+
+
+
+    </StackLayout>
+</ContentPage>
