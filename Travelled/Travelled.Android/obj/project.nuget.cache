@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8pOsEPrEINEcXg/864Zzng24ezTp48KbPelg9IHhF9jmCI7sQYbqLZRiY/PHb/H3YwlHGi69SV5vc0lnl4Tshg==",
+  "dgSpecHash": "/lyHgJ3f3I147nX1z9fVOysSqCXzQkDWUNUh3Gz1gCWgx39br137R+gt0bxbodD1T7ek0Hko1hJP94tNg+qJxA==",
   "success": true,
   "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.Android/Travelled.Android.csproj",
   "expectedPackageFiles": [
@@ -70,10 +70,10 @@
     "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.base/117.1.0/xamarin.googleplayservices.base.117.1.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.basement/117.1.0/xamarin.googleplayservices.basement.117.1.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.maps/117.0.0/xamarin.googleplayservices.maps.117.0.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.tasks/117.0.0/xamarin.googleplayservices.tasks.117.0.0.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.base/117.6.0.2/xamarin.googleplayservices.base.117.6.0.2.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.basement/117.6.0.3/xamarin.googleplayservices.basement.117.6.0.3.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.maps/117.0.1.2/xamarin.googleplayservices.maps.117.0.1.2.nupkg.sha512",
+    "/Users/Federico/.nuget/packages/xamarin.googleplayservices.tasks/117.2.1.2/xamarin.googleplayservices.tasks.117.2.1.2.nupkg.sha512",
     "/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
   "logs": []

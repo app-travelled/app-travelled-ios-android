@@ -1631,18 +1631,26 @@
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
-      "Xamarin.GooglePlayServices.Base/117.1.0": {
+      "Xamarin.GooglePlayServices.Base/117.6.0.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.AndroidX.Collection": "1.1.0.1",
-          "Xamarin.AndroidX.Core": "1.2.0.1",
-          "Xamarin.AndroidX.Fragment": "1.1.0.1",
+          "Xamarin.AndroidX.Collection": "1.1.0.7",
+          "Xamarin.AndroidX.Core": "1.3.2.3",
+          "Xamarin.AndroidX.Fragment": "1.3.2",
           "Xamarin.Build.Download": "0.10.0",
-          "Xamarin.GooglePlayServices.Basement": "117.1.0",
-          "Xamarin.GooglePlayServices.Tasks": "117.0.0"
+          "Xamarin.GooglePlayServices.Basement": "117.6.0.3",
+          "Xamarin.GooglePlayServices.Tasks": "117.2.1.2"
         },
         "frameworkAssemblies": [
-          "Java.Interop"
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
         ],
         "compile": {
           "lib/monoandroid90/Xamarin.GooglePlayServices.Base.dll": {}
@@ -1651,19 +1659,27 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Base.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/Xamarin.GooglePlayServices.Base.targets": {}
+          "build/monoandroid90/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
-      "Xamarin.GooglePlayServices.Basement/117.1.0": {
+      "Xamarin.GooglePlayServices.Basement/117.6.0.3": {
         "type": "package",
         "dependencies": {
-          "Xamarin.AndroidX.Collection": "1.1.0.1",
-          "Xamarin.AndroidX.Core": "1.2.0.1",
-          "Xamarin.AndroidX.Fragment": "1.1.0.1",
+          "Xamarin.AndroidX.Collection": "1.1.0.7",
+          "Xamarin.AndroidX.Core": "1.3.2.3",
+          "Xamarin.AndroidX.Fragment": "1.3.2",
           "Xamarin.Build.Download": "0.10.0"
         },
         "frameworkAssemblies": [
-          "Java.Interop"
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
         ],
         "compile": {
           "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.dll": {}
@@ -1672,19 +1688,27 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/Xamarin.GooglePlayServices.Basement.targets": {}
+          "build/monoandroid90/Xamarin.GooglePlayServices.Basement.targets": {}
         }
       },
-      "Xamarin.GooglePlayServices.Maps/117.0.0": {
+      "Xamarin.GooglePlayServices.Maps/117.0.1.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.AndroidX.Fragment": "1.1.0.1",
+          "Xamarin.AndroidX.Fragment": "1.3.2",
           "Xamarin.Build.Download": "0.10.0",
-          "Xamarin.GooglePlayServices.Base": "117.1.0",
-          "Xamarin.GooglePlayServices.Basement": "117.1.0"
+          "Xamarin.GooglePlayServices.Base": "117.6.0.2",
+          "Xamarin.GooglePlayServices.Basement": "117.6.0.3"
         },
         "frameworkAssemblies": [
-          "Java.Interop"
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
         ],
         "compile": {
           "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll": {}
@@ -1693,17 +1717,25 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/Xamarin.GooglePlayServices.Maps.targets": {}
+          "build/monoandroid90/Xamarin.GooglePlayServices.Maps.targets": {}
         }
       },
-      "Xamarin.GooglePlayServices.Tasks/117.0.0": {
+      "Xamarin.GooglePlayServices.Tasks/117.2.1.2": {
         "type": "package",
         "dependencies": {
           "Xamarin.Build.Download": "0.10.0",
-          "Xamarin.GooglePlayServices.Basement": "117.1.0"
+          "Xamarin.GooglePlayServices.Basement": "117.6.0.3"
         },
         "frameworkAssemblies": [
-          "Java.Interop"
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
         ],
         "compile": {
           "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.dll": {}
@@ -1712,7 +1744,7 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/Xamarin.GooglePlayServices.Tasks.targets": {}
+          "build/monoandroid90/Xamarin.GooglePlayServices.Tasks.targets": {}
         }
       },
       "Xamarin.Plugin.SharedTransitions/2.4.0": {
@@ -3524,62 +3556,83 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
-    "Xamarin.GooglePlayServices.Base/117.1.0": {
-      "sha512": "zn8MgkTImMHmvZl9RrUWLMXpGeMFwcb0zIqT9uqfE5DkHs+Pmc3RJ/QxVzFT3MFnmKdy2vuhD+JBVvlI3dV5QQ==",
+    "Xamarin.GooglePlayServices.Base/117.6.0.2": {
+      "sha512": "+4coTP2UctK97wCZlw8UwmCyUCa1h0bG43RV6PnW2OcnNvaRWEvOV7h0d2BQwJ+S9s3fBNiupSpwL27p2R5pmw==",
       "type": "package",
-      "path": "xamarin.googleplayservices.base/117.1.0",
+      "path": "xamarin.googleplayservices.base/117.6.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "build/MonoAndroid90/Xamarin.GooglePlayServices.Base.targets",
+        "build/monoandroid90/Xamarin.GooglePlayServices.Base.targets",
+        "build/net6.0-android31.0/Xamarin.GooglePlayServices.Base.targets",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Base.dll",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Base.pdb",
-        "proguard/MonoAndroid90/proguard.txt",
-        "xamarin.googleplayservices.base.117.1.0.nupkg.sha512",
+        "lib/monoandroid90/Xamarin.GooglePlayServices.Base.xml",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Base.dll",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Base.pdb",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Base.xml",
+        "proguard/proguard.txt",
+        "xamarin.googleplayservices.base.117.6.0.2.nupkg.sha512",
         "xamarin.googleplayservices.base.nuspec"
       ]
     },
-    "Xamarin.GooglePlayServices.Basement/117.1.0": {
-      "sha512": "NE6SsE0wqaxlqPKjrPPeGr+sVT840q4Rg7MdkgbwhP4u/umbTUJwz5TvsM+iRXBUnYlvYNJCaUKploLsYDjFjg==",
+    "Xamarin.GooglePlayServices.Basement/117.6.0.3": {
+      "sha512": "+XwMLkZ7bPHqbUctwOTtFOwRtfkX20P7qsInH4xVnq7r+zw/SVwbKsDRIg2eIC39w6pClSoDIzZJlWNGlGoG5A==",
       "type": "package",
-      "path": "xamarin.googleplayservices.basement/117.1.0",
+      "path": "xamarin.googleplayservices.basement/117.6.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "build/MonoAndroid90/Xamarin.GooglePlayServices.Basement.targets",
-        "build/MonoAndroid90/Xamarin.GooglePlayServices.Tasks.dll",
+        "build/monoandroid90/Xamarin.GooglePlayServices.Basement.targets",
+        "build/monoandroid90/Xamarin.GooglePlayServices.Tasks.dll",
+        "build/net6.0-android31.0/Xamarin.GooglePlayServices.Basement.targets",
+        "build/net6.0-android31.0/Xamarin.GooglePlayServices.Tasks.dll",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.dll",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.pdb",
-        "proguard/MonoAndroid90/proguard.txt",
-        "xamarin.googleplayservices.basement.117.1.0.nupkg.sha512",
+        "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.xml",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Basement.dll",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Basement.pdb",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Basement.xml",
+        "proguard/proguard.txt",
+        "xamarin.googleplayservices.basement.117.6.0.3.nupkg.sha512",
         "xamarin.googleplayservices.basement.nuspec"
       ]
     },
-    "Xamarin.GooglePlayServices.Maps/117.0.0": {
-      "sha512": "gq7hPOhQcjWxQ51eGzpjt0zR8QJneYxXUQk1iPyEAIcuVNtH44hjv0AIUmEcusxyKoFPafZSiSBDyZGCU2vU2w==",
+    "Xamarin.GooglePlayServices.Maps/117.0.1.2": {
+      "sha512": "phAbRPf5TyhC7T2lbKFOwr9jVXW2cXMOFfw+LF1UMGiqaJ6J8hBPGpsGgqmY5RuVWNRut/kceE4JpFPGok9JVg==",
       "type": "package",
-      "path": "xamarin.googleplayservices.maps/117.0.0",
+      "path": "xamarin.googleplayservices.maps/117.0.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "build/MonoAndroid90/Xamarin.GooglePlayServices.Maps.targets",
+        "build/monoandroid90/Xamarin.GooglePlayServices.Maps.targets",
+        "build/net6.0-android31.0/Xamarin.GooglePlayServices.Maps.targets",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.pdb",
-        "xamarin.googleplayservices.maps.117.0.0.nupkg.sha512",
+        "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.xml",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Maps.dll",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Maps.pdb",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Maps.xml",
+        "xamarin.googleplayservices.maps.117.0.1.2.nupkg.sha512",
         "xamarin.googleplayservices.maps.nuspec"
       ]
     },
-    "Xamarin.GooglePlayServices.Tasks/117.0.0": {
-      "sha512": "YESL35YWx58bCVqpU2pcwdipG0L/6CgIvUkrSh8gR6RPWgSM1vVAYKZLRYMCkMsW6/v0XzAmRWGE2YRgt50tew==",
+    "Xamarin.GooglePlayServices.Tasks/117.2.1.2": {
+      "sha512": "3hD+UU76fOUaUK3L3iv+nGcjzEYiI7XjJSCTAziiNLz2lpe68/0v+IdwnUpejuy7K2S5LtPRCHnwLn36rZyn2Q==",
       "type": "package",
-      "path": "xamarin.googleplayservices.tasks/117.0.0",
+      "path": "xamarin.googleplayservices.tasks/117.2.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "build/MonoAndroid90/Xamarin.GooglePlayServices.Tasks.targets",
+        "build/monoandroid90/Xamarin.GooglePlayServices.Tasks.targets",
+        "build/net6.0-android31.0/Xamarin.GooglePlayServices.Tasks.targets",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.dll",
         "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.pdb",
-        "xamarin.googleplayservices.tasks.117.0.0.nupkg.sha512",
+        "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.xml",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Tasks.dll",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Tasks.pdb",
+        "lib/net6.0-android31.0/Xamarin.GooglePlayServices.Tasks.xml",
+        "xamarin.googleplayservices.tasks.117.2.1.2.nupkg.sha512",
         "xamarin.googleplayservices.tasks.nuspec"
       ]
     },
@@ -3614,7 +3667,8 @@
       "Travelled >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2244",
-      "Xamarin.Forms.Maps >= 5.0.0.2244"
+      "Xamarin.Forms.Maps >= 5.0.0.2244",
+      "Xamarin.GooglePlayServices.Maps >= 117.0.1.2"
     ]
   },
   "packageFolders": {
@@ -3667,6 +3721,10 @@
           "Xamarin.Forms.Maps": {
             "target": "Package",
             "version": "[5.0.0.2244, )"
+          },
+          "Xamarin.GooglePlayServices.Maps": {
+            "target": "Package",
+            "version": "[117.0.1.2, )"
           }
         }
       }

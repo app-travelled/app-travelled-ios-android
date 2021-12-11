@@ -2,10 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
-             x:Class="Travelled.MainPage"
-             Title="Travelled">
+             x:Class="Travelled.MainPage">
 
     
+    <NavigationPage.TitleView>
+        <Label Text="Travelled"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="Center"
+               FontFamily="Astral_Sisters"
+               FontSize="Title"/>
+               
+    </NavigationPage.TitleView>
 
     <StackLayout>
         <Grid>
@@ -21,14 +28,12 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Button      Text="☰"
-                         FontSize="35"
                          x:Name="ButtonVisited"
                          Clicked="ButtonVisited_Clicked"
                          HorizontalOptions="Start"
                          Grid.Row="0" Grid.Column="0"/>
 
             <Button      Text="+"
-                         FontSize="35"
                          x:Name="ButtonToVisit"
                          Clicked="ButtonToVisit_Clicked"
                          HorizontalOptions="End"
