@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "attività-Travelled",
+      "appliesTo": "Travelled.Android/",
+      "type": "launch"
+    }
+  ]
+}

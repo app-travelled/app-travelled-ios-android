@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Travelled.Android",
+    "\\Travelled\\Connections",
+    "\\Travelled\\DB",
+    "\\Travelled\\Models"
   ],
   "SelectedNode": "\\Travelled.sln",
   "PreviewInSolutionExplorer": false
