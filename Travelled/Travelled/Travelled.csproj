@@ -11,15 +11,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\file_path.xml" />
     <None Remove="Resources\Fonts\Samantha.ttf" />
+    <None Remove="Resources\Fonts\SF-Pro-Text-Light.otf" />
+    <None Remove="Resources\Fonts\SF-Pro-Text-Ultralight.otf" />
     <None Remove="Xamarin.Plugin.SharedTransitions" />
     <None Remove="Enums\" />
     <None Remove="Resources\Fonts\Astral_Sisters.ttf" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\Fonts\Samantha.ttf" />
     <EmbeddedResource Include="Resources\Fonts\Astral_Sisters.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\Samantha.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\SF-Pro-Text-Ultralight.otf" />
   </ItemGroup>
 
   <ItemGroup>
@@ -41,5 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\file_path.xml" />
+    <Resource Include="Resources\Fonts\SF-Pro-Text-Light.otf" />
   </ItemGroup>
 </Project>

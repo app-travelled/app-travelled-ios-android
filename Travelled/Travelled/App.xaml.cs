@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 [assembly: ExportFont("Samantha.ttf")]
 [assembly: ExportFont("Astral_Sisters.ttf")]
+[assembly: ExportFont("SF-Pro-Text-Ultralight.otf")]
 
 namespace Travelled
 {
@@ -15,11 +16,12 @@ namespace Travelled
         {
             if (!IsUserLoggedIn)
             {
-                MainPage = new NavigationPage(new LoginPage());
+                MainPage = new NavigationPage(new LoginPage()) { BarBackgroundColor=Color.Transparent};
+                
             }
             else
             {
-                MainPage = new NavigationPage(new MainPage());
+                MainPage = new NavigationPage(new MainPage()) { BarBackgroundColor = Color.Transparent };
             }
         }
 

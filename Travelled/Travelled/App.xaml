@@ -6,6 +6,11 @@
              mc:Ignorable="d"
              x:Class="Travelled.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="FontFamily" Value="SF-Pro-Text-Ultralight" />
+            </Style>
+        </ResourceDictionary>
 
     </Application.Resources>
 </Application>

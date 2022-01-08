@@ -1891,9 +1891,8 @@ C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.And
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionNavigationPageRenderer.java
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionPageRenderer.java
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionShellItemRenderer.java
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\Travelled.Android.csproj.CopyComplete
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\assets\Plugin.Share.dll.mdb
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\jl\117106e5-340b-4bf8-8d58-34160b8fc400.jar
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\6e9819b7-8dd3-42f3-bcfd-951d9d52eb19.txt
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\98894b18-2621-4aad-a3ee-2b769dc84502.txt
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\eb4c2494-3df7-4e06-b77e-3710312e7fb9.cfg
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\jl\42d70038-623f-4f5e-aa1f-060049e599b2.jar
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\1411f1a9-e84b-4f5d-a699-16d1c0771da2.cfg
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\14845238-0a98-4773-844d-2ce5df241ee7.txt
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\d7049c74-a4c7-4725-8da3-7e6fd95c3e61.txt
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\assets\Plugin.Share.pdb

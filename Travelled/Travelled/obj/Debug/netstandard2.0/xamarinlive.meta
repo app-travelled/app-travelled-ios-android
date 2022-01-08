@@ -3,7 +3,7 @@
   <Files>
     <XamlFileMeta>
       <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
-      <Hash>09-6B-85-1A-2C-A9-F8-22-5C-F3-A5-7E-69-94-9A-38</Hash>
+      <Hash>FB-82-C1-D0-F2-A9-44-4F-C9-39-3B-65-99-D7-B4-10</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
@@ -14,16 +14,11 @@
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\LoginPage.xaml</FilePath>
-      <Hash>02-8A-42-51-63-22-0B-A1-B5-E4-E7-4C-E7-53-40-3C</Hash>
-      <Properties>
-        <string>Title</string>
-      </Properties>
-    </XamlFileMeta>
-    <XamlFileMeta>
       <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>FE-D0-8C-3C-50-F7-75-77-79-B2-B4-B4-F5-72-CC-A2</Hash>
-      <Properties />
+      <Hash>A5-88-DD-10-48-F8-9F-D5-C7-93-98-3A-61-E5-A8-D7</Hash>
+      <Properties>
+        <string>NavigationPage.HasNavigationBar</string>
+      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\SignUpPage.xaml</FilePath>

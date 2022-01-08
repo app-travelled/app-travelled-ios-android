@@ -2,20 +2,36 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
-             x:Class="Travelled.MainPage">
+             x:Class="Travelled.MainPage"
+             NavigationPage.HasNavigationBar="True">
 
     
     <NavigationPage.TitleView>
-        <Label Text="Travelled"
+        
+        <Grid>
+            <Label Text="Travelled"
                HorizontalTextAlignment="Center"
                VerticalOptions="Center"
-               FontFamily="Astral_Sisters"
-               FontSize="Title"/>
-               
+               FontFamily="SF-Pro-Text-Ultralight"
+               FontSize="Title"
+               TextColor="Green"/>
+            <Button      Text="☰"
+                             x:Name="ButtonVisited"
+                             Clicked="ButtonVisited_Clicked"
+                             HorizontalOptions="Start"
+                             BackgroundColor="#0000FFFF"/>
+
+            <Button      Text="+"
+                             x:Name="ButtonToVisit"
+                             Clicked="ButtonToVisit_Clicked"
+                             HorizontalOptions="End"
+                             BackgroundColor="#0000FFFF"/>
+        </Grid>
+
     </NavigationPage.TitleView>
 
     <StackLayout>
-        <Grid>
+        <!--<Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="100" />
@@ -39,7 +55,8 @@
                          HorizontalOptions="End"
                          Grid.Row="0" Grid.Column="1"/>
 
-        </Grid>
+        </Grid>-->
+        
 
 
         
