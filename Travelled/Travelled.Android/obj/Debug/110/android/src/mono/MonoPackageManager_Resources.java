@@ -7,6 +7,7 @@ public class MonoPackageManager_Resources {
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Share.Abstractions.dll",
 		"Plugin.Share.dll",
+		"Plugin.SharedTransitions.dll",
 		"Travelled.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",

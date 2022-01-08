@@ -67,7 +67,7 @@
           "lib/netstandard2.0/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2244": {
+      "Xamarin.Forms/5.0.0.2291": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
@@ -84,10 +84,10 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Maps/5.0.0.2244": {
+      "Xamarin.Forms.Maps/5.0.0.2291": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.2244"
+          "Xamarin.Forms": "5.0.0.2291"
         },
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {}
@@ -401,10 +401,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.2244": {
-      "sha512": "Ssr+0Pf11oHcaMHM4dHXW1NGex0h9uH7gQxuoLtiZcdPtXBli3SXzY3rF9ovp4Bw2mTe7cYpvy554pIpuW6fvA==",
+    "Xamarin.Forms/5.0.0.2291": {
+      "sha512": "No5HI+c05RBDT5Oe7ZSRaO+cQVeZNhrYdchvczNeZdWQiwrux8RJcVg8chI4DZ2xODeBjF0juIF9u1A5ysZ+uQ==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.2244",
+      "path": "xamarin.forms/5.0.0.2291",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -613,14 +613,14 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.2244.nupkg.sha512",
+        "xamarin.forms.5.0.0.2291.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
-    "Xamarin.Forms.Maps/5.0.0.2244": {
-      "sha512": "CW2eIeLplIFbuUTfa88XftvXf/4TDErccmeI9Qpi3f2q7CLa+UMYoSx8JWKufDj3ODFMmoPwSCzr/SUhXjwv9g==",
+    "Xamarin.Forms.Maps/5.0.0.2291": {
+      "sha512": "ZgV54f3Jd1By7D79wbyWeOrcVE0eIvBGty+8HjvX1BTUEX7id/bxBXBBBFqfjLVgsdd7dpzlGvqC3nmVfCkfrQ==",
       "type": "package",
-      "path": "xamarin.forms.maps/5.0.0.2244",
+      "path": "xamarin.forms.maps/5.0.0.2291",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -647,7 +647,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.pri",
         "lib/uap10.0.16299/Xamarin.Forms.Maps.dll",
-        "xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
+        "xamarin.forms.maps.5.0.0.2291.nupkg.sha512",
         "xamarin.forms.maps.nuspec"
       ]
     },
@@ -677,30 +677,40 @@
       "NETStandard.Library >= 2.0.3",
       "Plugin.Share >= 7.1.1",
       "Xamarin.Essentials >= 1.7.0",
-      "Xamarin.Forms >= 5.0.0.2244",
-      "Xamarin.Forms.Maps >= 5.0.0.2244",
+      "Xamarin.Forms >= 5.0.0.2291",
+      "Xamarin.Forms.Maps >= 5.0.0.2291",
       "Xamarin.Plugin.SharedTransitions >= 2.4.0"
     ]
   },
   "packageFolders": {
-    "/Users/Federico/.nuget/packages/": {}
+    "C:\\Users\\Skesky\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
+      "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
       "projectName": "Travelled",
-      "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
-      "packagesPath": "/Users/Federico/.nuget/packages/",
-      "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/",
+      "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
+      "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/Federico/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -739,11 +749,11 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.2244, )"
+            "version": "[5.0.0.2291, )"
           },
           "Xamarin.Forms.Maps": {
             "target": "Package",
-            "version": "[5.0.0.2244, )"
+            "version": "[5.0.0.2291, )"
           },
           "Xamarin.Plugin.SharedTransitions": {
             "target": "Package",
@@ -760,7 +770,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

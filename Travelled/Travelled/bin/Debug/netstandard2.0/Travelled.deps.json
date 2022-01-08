@@ -13,8 +13,8 @@
           "NETStandard.Library": "2.0.3",
           "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2244",
-          "Xamarin.Forms.Maps": "5.0.0.2244",
+          "Xamarin.Forms": "5.0.0.2291",
+          "Xamarin.Forms.Maps": "5.0.0.2291",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "runtime": {
@@ -62,36 +62,36 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.2244": {
+      "Xamarin.Forms/5.0.0.2291": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "5.0.0.819"
+            "fileVersion": "5.0.0.850"
           },
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "5.0.0.819"
+            "fileVersion": "5.0.0.850"
           },
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "5.0.0.819"
+            "fileVersion": "5.0.0.850"
           }
         }
       },
-      "Xamarin.Forms.Maps/5.0.0.2244": {
+      "Xamarin.Forms.Maps/5.0.0.2291": {
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.2244"
+          "Xamarin.Forms": "5.0.0.2291"
         },
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "5.0.0.819"
+            "fileVersion": "5.0.0.850"
           }
         }
       },
       "Xamarin.Plugin.SharedTransitions/2.4.0": {
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.2244"
+          "Xamarin.Forms": "5.0.0.2291"
         },
         "runtime": {
           "lib/netstandard2.0/Plugin.SharedTransitions.dll": {
@@ -150,19 +150,19 @@
       "path": "xamarin.essentials/1.7.0",
       "hashPath": "xamarin.essentials.1.7.0.nupkg.sha512"
     },
-    "Xamarin.Forms/5.0.0.2244": {
+    "Xamarin.Forms/5.0.0.2291": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ssr+0Pf11oHcaMHM4dHXW1NGex0h9uH7gQxuoLtiZcdPtXBli3SXzY3rF9ovp4Bw2mTe7cYpvy554pIpuW6fvA==",
-      "path": "xamarin.forms/5.0.0.2244",
-      "hashPath": "xamarin.forms.5.0.0.2244.nupkg.sha512"
+      "sha512": "sha512-No5HI+c05RBDT5Oe7ZSRaO+cQVeZNhrYdchvczNeZdWQiwrux8RJcVg8chI4DZ2xODeBjF0juIF9u1A5ysZ+uQ==",
+      "path": "xamarin.forms/5.0.0.2291",
+      "hashPath": "xamarin.forms.5.0.0.2291.nupkg.sha512"
     },
-    "Xamarin.Forms.Maps/5.0.0.2244": {
+    "Xamarin.Forms.Maps/5.0.0.2291": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CW2eIeLplIFbuUTfa88XftvXf/4TDErccmeI9Qpi3f2q7CLa+UMYoSx8JWKufDj3ODFMmoPwSCzr/SUhXjwv9g==",
-      "path": "xamarin.forms.maps/5.0.0.2244",
-      "hashPath": "xamarin.forms.maps.5.0.0.2244.nupkg.sha512"
+      "sha512": "sha512-ZgV54f3Jd1By7D79wbyWeOrcVE0eIvBGty+8HjvX1BTUEX7id/bxBXBBBFqfjLVgsdd7dpzlGvqC3nmVfCkfrQ==",
+      "path": "xamarin.forms.maps/5.0.0.2291",
+      "hashPath": "xamarin.forms.maps.5.0.0.2291.nupkg.sha512"
     },
     "Xamarin.Plugin.SharedTransitions/2.4.0": {
       "type": "package",

@@ -201,8 +201,8 @@
           "LiveXAML": "2.1.73",
           "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2244",
-          "Xamarin.Forms.Maps": "5.0.0.2244",
+          "Xamarin.Forms": "5.0.0.2291",
+          "Xamarin.Forms.Maps": "5.0.0.2291",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "compile": {
@@ -413,8 +413,8 @@
           "LiveXAML": "2.1.73",
           "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2244",
-          "Xamarin.Forms.Maps": "5.0.0.2244",
+          "Xamarin.Forms": "5.0.0.2291",
+          "Xamarin.Forms.Maps": "5.0.0.2291",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "compile": {
@@ -625,8 +625,8 @@
           "LiveXAML": "2.1.73",
           "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2244",
-          "Xamarin.Forms.Maps": "5.0.0.2244",
+          "Xamarin.Forms": "5.0.0.2291",
+          "Xamarin.Forms.Maps": "5.0.0.2291",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "compile": {
@@ -837,8 +837,8 @@
           "LiveXAML": "2.1.73",
           "Plugin.Share": "7.1.1",
           "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2244",
-          "Xamarin.Forms.Maps": "5.0.0.2244",
+          "Xamarin.Forms": "5.0.0.2291",
+          "Xamarin.Forms.Maps": "5.0.0.2291",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "compile": {
@@ -1282,32 +1282,42 @@
     ]
   },
   "packageFolders": {
-    "/Users/Federico/.nuget/packages/": {}
+    "C:\\Users\\Skesky\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
       "projectName": "Travelled.iOS",
-      "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
-      "packagesPath": "/Users/Federico/.nuget/packages/",
-      "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/",
+      "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
+      "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/Federico/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj": {
-              "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj"
+            "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
+              "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
             }
           }
         }
@@ -1346,5 +1356,33 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
+      "libraryId": "Xamarin.Forms.Maps",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms (>= 5.0.0.2244)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

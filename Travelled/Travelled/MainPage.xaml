@@ -47,8 +47,11 @@
            
                HorizontalOptions="CenterAndExpand"
                VerticalOptions="CenterAndExpand"/>-->
-        <maps:Map x:Name="map" />
-        <Slider Margin="20,0,20,0"
+        <maps:Map x:Name="map"
+                  MapType="Street"
+                  VerticalOptions="FillAndExpand"
+                  HorizontalOptions="FillAndExpand"/>
+        <!--<Slider Margin="20,0,20,0"
                 Maximum="18"
                 Minimum="1"
                 Value="12"
@@ -62,7 +65,7 @@
                     Clicked="OnButtonClicked" />
             <Button Text="Hybrid"
                     Clicked="OnButtonClicked" />
-        </StackLayout>
+        </StackLayout>-->
     </StackLayout>
 
 

@@ -216,6 +216,6 @@ public final class R {
 		public static final int GradientColorItem_android_offset = 1;
 	}
 	public static final class xml {
-		public static final int image_share_filepaths = 0x7f110000;
+		public static final int image_share_filepaths = 0x7f120000;
 	}
 }
