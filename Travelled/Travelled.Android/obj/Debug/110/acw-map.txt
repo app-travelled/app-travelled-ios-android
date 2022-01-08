@@ -1,6 +1,18 @@
 Travelled.Droid.MainActivity, Travelled.Android;crc64556264874e0dfb91.MainActivity
 Travelled.Droid.MainActivity;crc64556264874e0dfb91.MainActivity
 travelled.droid.MainActivity;crc64556264874e0dfb91.MainActivity
+Plugin.SharedTransitions.Platforms.Android.NavigationTransitionListener, Plugin.SharedTransitions;crc6479820c45fd9c6153.NavigationTransitionListener
+Plugin.SharedTransitions.Platforms.Android.NavigationTransitionListener;crc6479820c45fd9c6153.NavigationTransitionListener
+plugin.sharedtransitions.platforms.android.NavigationTransitionListener;crc6479820c45fd9c6153.NavigationTransitionListener
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionNavigationPageRenderer, Plugin.SharedTransitions;crc6479820c45fd9c6153.SharedTransitionNavigationPageRenderer
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionNavigationPageRenderer;crc6479820c45fd9c6153.SharedTransitionNavigationPageRenderer
+plugin.sharedtransitions.platforms.android.SharedTransitionNavigationPageRenderer;crc6479820c45fd9c6153.SharedTransitionNavigationPageRenderer
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionPageRenderer, Plugin.SharedTransitions;crc6479820c45fd9c6153.SharedTransitionPageRenderer
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionPageRenderer;crc6479820c45fd9c6153.SharedTransitionPageRenderer
+plugin.sharedtransitions.platforms.android.SharedTransitionPageRenderer;crc6479820c45fd9c6153.SharedTransitionPageRenderer
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionShellItemRenderer, Plugin.SharedTransitions;crc6479820c45fd9c6153.SharedTransitionShellItemRenderer
+Plugin.SharedTransitions.Platforms.Android.SharedTransitionShellItemRenderer;crc6479820c45fd9c6153.SharedTransitionShellItemRenderer
+plugin.sharedtransitions.platforms.android.SharedTransitionShellItemRenderer;crc6479820c45fd9c6153.SharedTransitionShellItemRenderer
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
@@ -2353,21 +2365,21 @@ mono.com.google.android.gms.common.api.internal.SignInConnectionListenerImplemen
 Android.Gms.Common.Api.Internal.IStatusCallback, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.IStatusCallback
 Android.Gms.Common.Api.Internal.IStatusCallback;com.google.android.gms.common.api.internal.IStatusCallback
 com.google.android.gms.common.api.internal.IStatusCallback;com.google.android.gms.common.api.internal.IStatusCallback
-Android.Gms.Common.Api.Internal.IZabb, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zabb
-Android.Gms.Common.Api.Internal.IZabb;com.google.android.gms.common.api.internal.zabb
-com.google.android.gms.common.api.internal.zabb;com.google.android.gms.common.api.internal.zabb
-Android.Gms.Common.Api.Internal.IZabr, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zabr
-Android.Gms.Common.Api.Internal.IZabr;com.google.android.gms.common.api.internal.zabr
-com.google.android.gms.common.api.internal.zabr;com.google.android.gms.common.api.internal.zabr
-Android.Gms.Common.Api.Internal.IZabs, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zabs
-Android.Gms.Common.Api.Internal.IZabs;com.google.android.gms.common.api.internal.zabs
-com.google.android.gms.common.api.internal.zabs;com.google.android.gms.common.api.internal.zabs
-Android.Gms.Common.Api.Internal.IZacf, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zacf
-Android.Gms.Common.Api.Internal.IZacf;com.google.android.gms.common.api.internal.zacf
-com.google.android.gms.common.api.internal.zacf;com.google.android.gms.common.api.internal.zacf
-Android.Gms.Common.Api.Internal.IZar, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zar
-Android.Gms.Common.Api.Internal.IZar;com.google.android.gms.common.api.internal.zar
-com.google.android.gms.common.api.internal.zar;com.google.android.gms.common.api.internal.zar
+Android.Gms.Common.Api.Internal.IZaba, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zaba
+Android.Gms.Common.Api.Internal.IZaba;com.google.android.gms.common.api.internal.zaba
+com.google.android.gms.common.api.internal.zaba;com.google.android.gms.common.api.internal.zaba
+Android.Gms.Common.Api.Internal.IZabt, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zabt
+Android.Gms.Common.Api.Internal.IZabt;com.google.android.gms.common.api.internal.zabt
+com.google.android.gms.common.api.internal.zabt;com.google.android.gms.common.api.internal.zabt
+Android.Gms.Common.Api.Internal.IZabu, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zabu
+Android.Gms.Common.Api.Internal.IZabu;com.google.android.gms.common.api.internal.zabu
+com.google.android.gms.common.api.internal.zabu;com.google.android.gms.common.api.internal.zabu
+Android.Gms.Common.Api.Internal.IZacn, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zacn
+Android.Gms.Common.Api.Internal.IZacn;com.google.android.gms.common.api.internal.zacn
+com.google.android.gms.common.api.internal.zacn;com.google.android.gms.common.api.internal.zacn
+Android.Gms.Common.Api.Internal.IZat, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.zat
+Android.Gms.Common.Api.Internal.IZat;com.google.android.gms.common.api.internal.zat
+com.google.android.gms.common.api.internal.zat;com.google.android.gms.common.api.internal.zat
 Android.Gms.Common.Api.Internal.ListenerHolder+INotifier, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.internal.ListenerHolder$Notifier
 Android.Gms.Common.Api.Internal.ListenerHolder.INotifier;com.google.android.gms.common.api.internal.ListenerHolder$Notifier
 com.google.android.gms.common.api.internal.ListenerHolder$Notifier;com.google.android.gms.common.api.internal.ListenerHolder$Notifier
@@ -2407,9 +2419,6 @@ com.google.android.gms.common.api.Api$ApiOptions;com.google.android.gms.common.a
 Android.Gms.Common.Apis.Api+IClient, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.Api$Client
 Android.Gms.Common.Apis.Api.IClient;com.google.android.gms.common.api.Api$Client
 com.google.android.gms.common.api.Api$Client;com.google.android.gms.common.api.Api$Client
-Android.Gms.Common.Apis.Api+ISimpleClient, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.Api$SimpleClient
-Android.Gms.Common.Apis.Api.ISimpleClient;com.google.android.gms.common.api.Api$SimpleClient
-com.google.android.gms.common.api.Api$SimpleClient;com.google.android.gms.common.api.Api$SimpleClient
 Android.Gms.Common.Apis.IHasApiKey, Xamarin.GooglePlayServices.Base;com.google.android.gms.common.api.HasApiKey
 Android.Gms.Common.Apis.IHasApiKey;com.google.android.gms.common.api.HasApiKey
 com.google.android.gms.common.api.HasApiKey;com.google.android.gms.common.api.HasApiKey
@@ -2437,6 +2446,9 @@ com.google.android.gms.security.ProviderInstaller$ProviderInstallListener;com.go
 Android.Gms.Security.ProviderInstaller+IProviderInstallListenerImplementor, Xamarin.GooglePlayServices.Basement;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
 Android.Gms.Security.ProviderInstaller.IProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
 mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
+Android.Gms.Internal.Constants.IListAppsActivityContract, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.internal.constants.ListAppsActivityContract
+Android.Gms.Internal.Constants.IListAppsActivityContract;com.google.android.gms.common.internal.constants.ListAppsActivityContract
+com.google.android.gms.common.internal.constants.ListAppsActivityContract;com.google.android.gms.common.internal.constants.ListAppsActivityContract
 Android.Gms.Dynamite.DynamiteModule+IVersionPolicy, Xamarin.GooglePlayServices.Basement;com.google.android.gms.dynamite.DynamiteModule$VersionPolicy
 Android.Gms.Dynamite.DynamiteModule.IVersionPolicy;com.google.android.gms.dynamite.DynamiteModule$VersionPolicy
 com.google.android.gms.dynamite.DynamiteModule$VersionPolicy;com.google.android.gms.dynamite.DynamiteModule$VersionPolicy
@@ -2473,6 +2485,9 @@ com.google.android.gms.common.util.RetainForClient;com.google.android.gms.common
 Android.Gms.Common.Util.IVisibleForTesting, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.util.VisibleForTesting
 Android.Gms.Common.Util.IVisibleForTesting;com.google.android.gms.common.util.VisibleForTesting
 com.google.android.gms.common.util.VisibleForTesting;com.google.android.gms.common.util.VisibleForTesting
+Android.Gms.Common.Stats.StatsEvent+ITypes, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.stats.StatsEvent$Types
+Android.Gms.Common.Stats.StatsEvent.ITypes;com.google.android.gms.common.stats.StatsEvent$Types
+com.google.android.gms.common.stats.StatsEvent$Types;com.google.android.gms.common.stats.StatsEvent$Types
 Android.Gms.Common.Providers.PooledExecutorsProvider+IPooledExecutorFactory, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.providers.PooledExecutorsProvider$PooledExecutorFactory
 Android.Gms.Common.Providers.PooledExecutorsProvider.IPooledExecutorFactory;com.google.android.gms.common.providers.PooledExecutorsProvider$PooledExecutorFactory
 com.google.android.gms.common.providers.PooledExecutorsProvider$PooledExecutorFactory;com.google.android.gms.common.providers.PooledExecutorsProvider$PooledExecutorFactory
@@ -2530,6 +2545,9 @@ com.google.android.gms.common.annotation.KeepForSdkWithMembers;com.google.androi
 Android.Gms.Common.Annotations.IKeepName, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.annotation.KeepName
 Android.Gms.Common.Annotations.IKeepName;com.google.android.gms.common.annotation.KeepName
 com.google.android.gms.common.annotation.KeepName;com.google.android.gms.common.annotation.KeepName
+Android.Gms.Common.Annotations.INonNullApi, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.annotation.NonNullApi
+Android.Gms.Common.Annotations.INonNullApi;com.google.android.gms.common.annotation.NonNullApi
+com.google.android.gms.common.annotation.NonNullApi;com.google.android.gms.common.annotation.NonNullApi
 Android.Gms.Common.Apis.ResultCallback`1, Xamarin.GooglePlayServices.Basement;crc6450e07d0e82e86181.ResultCallback_1
 Android.Gms.Common.Apis.ResultCallback`1;crc6450e07d0e82e86181.ResultCallback_1
 android.gms.common.apis.ResultCallback_1;crc6450e07d0e82e86181.ResultCallback_1

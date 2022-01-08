@@ -1,16 +1,43 @@
 {
   "version": 2,
-  "dgSpecHash": "39Hxdes2zRPMEyRT9UgUfG1EdrY3JseXgRI1BHLkzjLKX4A4doQ+UuwXe3S6MmKGnBA848jM+lKsveCQQcDCzA==",
+  "dgSpecHash": "jd1741t4iKbnEWlyMWeOWxdqAinpyyj2yjdjsnr+3YqhFUGqKZGw4TkXxO5vxNNTzuMjOnblS97KqSBoGNJZgQ==",
   "success": true,
-  "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/Travelled.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/Federico/.nuget/packages/livexaml/2.1.73/livexaml.2.1.73.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/plugin.share/7.1.1/plugin.share.7.1.1.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2244/xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+    "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2244\\xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
+      "libraryId": "Xamarin.Forms.Maps",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms (>= 5.0.0.2244)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

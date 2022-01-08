@@ -3,12 +3,35 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="Travelled.MainPage"
-             Title="Travelled">
+             NavigationPage.HasNavigationBar="True">
 
     
+    <NavigationPage.TitleView>
+        
+        <Grid>
+            <Label Text="Travelled"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="Center"
+               FontFamily="SF-Pro-Text-Ultralight"
+               FontSize="Title"
+               TextColor="Green"/>
+            <Button      Text="☰"
+                             x:Name="ButtonVisited"
+                             Clicked="ButtonVisited_Clicked"
+                             HorizontalOptions="Start"
+                             BackgroundColor="#0000FFFF"/>
+
+            <Button      Text="+"
+                             x:Name="ButtonToVisit"
+                             Clicked="ButtonToVisit_Clicked"
+                             HorizontalOptions="End"
+                             BackgroundColor="#0000FFFF"/>
+        </Grid>
+
+    </NavigationPage.TitleView>
 
     <StackLayout>
-        <Grid>
+        <!--<Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="100" />
@@ -21,20 +44,19 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Button      Text="☰"
-                         FontSize="35"
                          x:Name="ButtonVisited"
                          Clicked="ButtonVisited_Clicked"
                          HorizontalOptions="Start"
                          Grid.Row="0" Grid.Column="0"/>
 
             <Button      Text="+"
-                         FontSize="35"
                          x:Name="ButtonToVisit"
                          Clicked="ButtonToVisit_Clicked"
                          HorizontalOptions="End"
                          Grid.Row="0" Grid.Column="1"/>
 
-        </Grid>
+        </Grid>-->
+        
 
 
         
@@ -42,8 +64,11 @@
            
                HorizontalOptions="CenterAndExpand"
                VerticalOptions="CenterAndExpand"/>-->
-        <maps:Map x:Name="map" />
-        <Slider Margin="20,0,20,0"
+        <maps:Map x:Name="map"
+                  MapType="Street"
+                  VerticalOptions="FillAndExpand"
+                  HorizontalOptions="FillAndExpand"/>
+        <!--<Slider Margin="20,0,20,0"
                 Maximum="18"
                 Minimum="1"
                 Value="12"
@@ -57,7 +82,7 @@
                     Clicked="OnButtonClicked" />
             <Button Text="Hybrid"
                     Clicked="OnButtonClicked" />
-        </StackLayout>
+        </StackLayout>-->
     </StackLayout>
 
 

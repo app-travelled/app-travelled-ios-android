@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="Travelled.MainPage">
+
+    <NavigationPage.TitleView>
+        <Label Text=" Travelled "
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FontFamily="Astral_Sisters"
+               FontSize="Title"/>
+    </NavigationPage.TitleView>
+
+
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="100" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button      Text="☰"
+                         FontSize="35"
+                         x:Name="ButtonVisited"
+                         Clicked="ButtonVisited_Clicked"
+                         HorizontalOptions="Start"
+                         Grid.Row="0" Grid.Column="0"/>
+
+            <Button      Text="+"
+                         FontSize="35"
+                         x:Name="ButtonToVisit"
+                         Clicked="ButtonToVisit_Clicked"
+                         HorizontalOptions="End"
+                         Grid.Row="0" Grid.Column="1"/>
+
+        </Grid>
+
+
+        
+        <!--<Image Source="https://www.3dcadbrowser.com/th/1/2/2182.jpg" 
+           
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"/>-->
+        <maps:Map x:Name="map" />
+        <Slider Margin="20,0,20,0"
+                Maximum="18"
+                Minimum="1"
+                Value="12"
+                ValueChanged="OnSliderValueChanged" />
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center"
+                     Spacing="30">
+            <Button Text="Street"
+                    Clicked="OnButtonClicked" />
+            <Button Text="Satellite"
+                    Clicked="OnButtonClicked" />
+            <Button Text="Hybrid"
+                    Clicked="OnButtonClicked" />
+        </StackLayout>
+    </StackLayout>
+
+
+    
+    
+</ContentPage>
+    
