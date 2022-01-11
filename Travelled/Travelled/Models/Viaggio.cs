@@ -15,6 +15,7 @@ namespace Travelled.Models
 
         public int Id { get => id; set => id = value; }
         public int Id_user { get => id_user; set => id_user = value; }
+        //add fine data viaggio
         public DateTime Data_viaggio { get => data_viaggio; set => data_viaggio = value; }
         public string Nazione { get => nazione; set => nazione = value; }
         public string Citta { get => citta; set => citta = value; }

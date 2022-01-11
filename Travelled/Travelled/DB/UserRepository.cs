@@ -13,6 +13,7 @@ namespace Travelled.DB
         string COLONNA_ID = "id";
         string COLONNA_USERNAME = "username";
         string COLONNA_PASSWORD = "password";
+        string COLONNA_EMAIL = "email";
         string TABELLA_USER = "visiteddb.user";
 
 
@@ -21,7 +22,7 @@ namespace Travelled.DB
             connection.Open();
 
             MySqlCommand command = connection.CreateCommand();
-            command.CommandText = "SELECT " + COLONNA_ID + "," + COLONNA_USERNAME + "," + COLONNA_PASSWORD + " FROM " 
+            command.CommandText = "SELECT " + COLONNA_ID + "," + COLONNA_USERNAME + "," + COLONNA_PASSWORD + "," + COLONNA_EMAIL + " FROM " 
                                   + TABELLA_USER+ " WHERE "+ COLONNA_ID +"=@id" ;
 
             MySqlDataReader reader = command.ExecuteReader();
@@ -33,6 +34,7 @@ namespace Travelled.DB
                 user.Id = (int)reader.GetUInt64("id");
                 user.Username = reader.GetString("username");
                 user.Password = reader.GetString("password");
+                user.Email = reader.GetString("email");
 
                 return user;
             }
@@ -47,7 +49,7 @@ namespace Travelled.DB
             connection.Open();
 
             MySqlCommand command = connection.CreateCommand();
-            command.CommandText = "SELECT "+ COLONNA_ID + ","+ COLONNA_USERNAME + "," + COLONNA_PASSWORD + " FROM "+ TABELLA_USER;
+            command.CommandText = "SELECT "+ COLONNA_ID + ","+ COLONNA_USERNAME + "," + COLONNA_PASSWORD + "," + COLONNA_EMAIL + " FROM "+ TABELLA_USER;
 
             MySqlDataReader reader = command.ExecuteReader();
             while (reader.Read())
@@ -57,6 +59,7 @@ namespace Travelled.DB
                 user.Id = (int)reader.GetUInt64("id");
                 user.Username = reader.GetString("username");
                 user.Password = reader.GetString("password");
+                user.Email = reader.GetString("email");
 
                 allUsers.Add(user);
 
@@ -70,7 +73,7 @@ namespace Travelled.DB
         {
             User user = null;
 
-            string query = "SELECT " +COLONNA_ID+ "," +COLONNA_USERNAME+ "," +COLONNA_PASSWORD+ " FROM " +TABELLA_USER+
+            string query = "SELECT " +COLONNA_ID+ "," +COLONNA_USERNAME+ "," +COLONNA_PASSWORD+ "," +COLONNA_EMAIL+ " FROM " +TABELLA_USER+
                                     " WHERE "+COLONNA_PASSWORD+"=@password AND "+COLONNA_USERNAME+"=@username";
 
             MySqlCommand command = new MySqlCommand(query, connection);
@@ -90,6 +93,7 @@ namespace Travelled.DB
                     user.Id = (int)reader.GetUInt64("id");
                     user.Username = reader.GetString("username");
                     user.Password = reader.GetString("password");
+                    user.Email = reader.GetString("email");
 
                 }
             }
@@ -106,7 +110,7 @@ namespace Travelled.DB
         {
             User user = null;
 
-            string query = "SELECT " +COLONNA_ID+ "," +COLONNA_USERNAME+ "," +COLONNA_PASSWORD+ " FROM " +TABELLA_USER+ 
+            string query = "SELECT " + COLONNA_ID + "," + COLONNA_USERNAME + "," + COLONNA_PASSWORD + "," + COLONNA_EMAIL + " FROM " + TABELLA_USER +
                             " WHERE " +COLONNA_ID+ "=@id";
 
             MySqlCommand command = new MySqlCommand(query, connection);
@@ -123,6 +127,8 @@ namespace Travelled.DB
                     user.Id = (int)reader.GetUInt64("id");
                     user.Username = reader.GetString("username");
                     user.Password = reader.GetString("password");
+                    user.Email = reader.GetString("email");
+
 
                 }
             }
@@ -137,7 +143,7 @@ namespace Travelled.DB
 
         public Boolean addUser(User newUser)
         {
-            string query = "INSERT INTO " +TABELLA_USER+ "(" +COLONNA_USERNAME+ "," +COLONNA_PASSWORD+ ") values (@username, @password)";
+            string query = "INSERT INTO " +TABELLA_USER+ "(" +COLONNA_USERNAME+ "," +COLONNA_PASSWORD+ "," +COLONNA_EMAIL +") values (@username, @password,@email)";
 
             MySqlCommand command = new MySqlCommand(query, connection);
             command.Parameters.Add("@username", MySqlDbType.String);
@@ -145,6 +151,9 @@ namespace Travelled.DB
 
             command.Parameters.Add("@password", MySqlDbType.String);
             command.Parameters["@password"].Value = newUser.Password;
+
+            command.Parameters.Add("@email", MySqlDbType.String);
+            command.Parameters["@email"].Value = newUser.Email;
 
             try
             {
@@ -192,8 +201,8 @@ namespace Travelled.DB
 
         public Boolean updateUser(User newUser)
         {
-            string query = "UPDATE " +TABELLA_USER+ " SET " +COLONNA_USERNAME+ "=@username, " +COLONNA_PASSWORD+ "=@password"+ 
-                            " WHERE " +COLONNA_ID+ "=@id";
+            string query = "UPDATE " +TABELLA_USER+ " SET " +COLONNA_USERNAME+ "=@username, " +COLONNA_PASSWORD+ "=@password" +COLONNA_EMAIL+ "=@email" +
+                            + " WHERE " +COLONNA_ID+ "=@id";
 
             MySqlCommand command = new MySqlCommand(query, connection);
             command.Parameters.Add("@id", MySqlDbType.Int64);
@@ -204,6 +213,9 @@ namespace Travelled.DB
 
             command.Parameters.Add("@password", MySqlDbType.String);
             command.Parameters["@password"].Value = newUser.Password;
+
+            command.Parameters.Add("@email", MySqlDbType.String);
+            command.Parameters["@email"].Value = newUser.Email;
 
             try
             {

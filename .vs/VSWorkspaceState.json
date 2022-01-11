@@ -3,8 +3,9 @@
     "",
     "\\Travelled",
     "\\Travelled\\Travelled",
-    "\\Travelled\\Travelled\\Connections"
+    "\\Travelled\\Travelled\\Connections",
+    "\\Travelled\\Travelled\\DB"
   ],
-  "SelectedNode": "\\Travelled\\Travelled\\Connections\\DBConnection.cs",
+  "SelectedNode": "\\Travelled\\Travelled\\DB\\UserRepository.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -54,3 +54,15 @@ D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Tr
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.dll
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\ref\Travelled.dll
 D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.pdb
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.AssemblyReference.cache
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Tovisit.xaml.g.cs
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Visited.xaml.g.cs
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfoInputs.cache
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfo.cs
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.CoreCompileInputs.cache
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.dll
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\ref\Travelled.dll
+C:\Users\dade0\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.pdb

@@ -9,10 +9,10 @@ namespace Travelled.Connections
 {
     public class DBConnection
     {
-        static string RDS_DB_NAME  = "travelleddb";
+        static string RDS_DB_NAME  = "database1";
         static string RDS_USERNAME = "admin";
-        static string RDS_PASSWORD = "root1234";
-        static string RDS_HOSTNAME = "travelleddb.ch9njb977wgk.us-east-2.rds.amazonaws.com";
+        static string RDS_PASSWORD = "Dade_02201";
+        static string RDS_HOSTNAME = "database1.ch9njb977wgk.us-east-2.rds.amazonaws.com";
         static string RDS_PORT = "3306";
 
         public static string getConnection()
