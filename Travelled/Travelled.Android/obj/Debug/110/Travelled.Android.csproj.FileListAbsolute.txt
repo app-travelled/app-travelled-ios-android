@@ -1891,7 +1891,8 @@ C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.And
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionNavigationPageRenderer.java
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionPageRenderer.java
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\src\crc6479820c45fd9c6153\SharedTransitionShellItemRenderer.java
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\jl\f75a532e-ae78-411d-bf26-a43cc961d216.jar
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\0d67ce55-b0c0-4eb9-bcc9-441f2025bcad.txt
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\5239b0f5-647a-41c9-bade-1a04a65449b6.txt
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\6f64d1dc-d019-4c10-a2b3-06702163d20f.cfg
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\jl\6afea6e8-a486-4b35-b5d9-e6ac4083d64a.jar
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\09854508-3e87-4c1d-bc4d-c565502e091b.txt
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\85c52e2c-3683-4388-b4c6-0b9147a791e0.txt
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\androidx\proguard\d01610b9-d47b-4ec8-9cf3-c514c7f78b9f.cfg
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled.Android\obj\Debug\110\android\assets\Plugin.Share.pdb
