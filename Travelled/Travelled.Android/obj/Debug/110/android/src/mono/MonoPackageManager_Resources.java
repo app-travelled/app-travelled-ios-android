@@ -3,12 +3,23 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Travelled.Android.dll" comes first in this list. */
 		"Travelled.Android.dll",
+		"BouncyCastle.Crypto.dll",
 		"FormsViewGroup.dll",
+		"Google.Protobuf.dll",
+		"K4os.Compression.LZ4.dll",
+		"K4os.Compression.LZ4.Streams.dll",
+		"K4os.Hash.xxHash.dll",
+		"MySql.Data.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Share.Abstractions.dll",
 		"Plugin.Share.dll",
 		"Plugin.SharedTransitions.dll",
+		"System.Configuration.ConfigurationManager.dll",
+		"System.Security.AccessControl.dll",
+		"System.Security.Permissions.dll",
+		"System.Security.Principal.Windows.dll",
 		"Travelled.dll",
+		"Ubiety.Dns.Core.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",
 		"Xamarin.Android.Support.CustomTabs.dll",
@@ -77,6 +88,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
 		"Xamarin.GooglePlayServices.Tasks.dll",
+		"ZstdNet.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

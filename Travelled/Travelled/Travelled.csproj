@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <None Remove="Resources\file_path.xml" />
+    <None Remove="Resources\Fonts\CaviarDreams.ttf" />
     <None Remove="Resources\Fonts\Samantha.ttf" />
     <None Remove="Resources\Fonts\SF-Pro-Text-Light.otf" />
     <None Remove="Resources\Fonts\SF-Pro-Text-Ultralight.otf" />
@@ -22,12 +23,14 @@
 
   <ItemGroup>
     <EmbeddedResource Include="Resources\Fonts\Astral_Sisters.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\CaviarDreams.ttf" />
     <EmbeddedResource Include="Resources\Fonts\Samantha.ttf" />
     <EmbeddedResource Include="Resources\Fonts\SF-Pro-Text-Ultralight.otf" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="LiveXAML" Version="2.1.73" />
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
     <PackageReference Include="Plugin.Share" Version="7.1.1" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2291" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
