@@ -21,4 +21,10 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="30" />
 
+    <queries>
+        <intent>
+            <action android:name="android.media.browse.MediaBrowserService" />
+        </intent>
+    </queries>
+
 </manifest>

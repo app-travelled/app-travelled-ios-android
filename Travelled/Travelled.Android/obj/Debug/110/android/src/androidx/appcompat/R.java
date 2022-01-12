@@ -32,7 +32,7 @@ public final class R {
 		public static final int btn_radio_to_on_mtrl_dot_group_animation = 0x7f010015;
 		public static final int btn_radio_to_on_mtrl_ring_outer_animation = 0x7f010016;
 		public static final int btn_radio_to_on_mtrl_ring_outer_path_animation = 0x7f010017;
-		public static final int fragment_fast_out_extra_slow_in = 0x7f010020;
+		public static final int fragment_fast_out_extra_slow_in = 0x7f01002c;
 	}
 	public static final class animator {
 		public static final int fragment_close_enter = 0x7f020003;

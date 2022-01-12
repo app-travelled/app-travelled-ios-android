@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "uEya5p5KpRRNv9BNPKHdtTCQCFyPuu67TfZZlpaiGyM1KktRT5Jz3etlYsA9vk/DMi7piVybBqvZZLlbIc8BJA==",
+  "dgSpecHash": "g3ExYtYF45zpuOBdBFviaivYiB9diDMWkER+s30wSAlz3R3XR3i3Y1dfLDfKDUHF2Z+msT+GSO/x0cnHc3uJ6Q==",
   "success": true,
-  "projectFilePath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj",
+  "projectFilePath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj",
   "expectedPackageFiles": [
-    "/Users/Federico/.nuget/packages/livexaml/2.1.73/livexaml.2.1.73.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/plugin.share/7.1.1/plugin.share.7.1.1.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.forms/5.0.0.2244/xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.forms.maps/5.0.0.2244/xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
-    "/Users/Federico/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+    "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2291\\xamarin.forms.maps.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

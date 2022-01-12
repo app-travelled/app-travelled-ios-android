@@ -2,24 +2,49 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
-      <Hash>02-01-67-9C-65-63-CE-1B-A2-FE-66-00-86-70-BD-03</Hash>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\App.xaml</FilePath>
+      <Hash>09-6B-85-1A-2C-A9-F8-22-5C-F3-A5-7E-69-94-9A-38</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
-      <Hash>32-4F-D2-24-E3-7A-2C-0E-03-D8-93-A4-AD-A4-5A-32</Hash>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\CreditsPage.xaml</FilePath>
+      <Hash>EA-CF-5E-72-2C-21-02-2B-A9-1C-B3-25-1D-9F-D7-D1</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\LoginPage.xaml</FilePath>
+      <Hash>02-8A-42-51-63-22-0B-A1-B5-E4-E7-4C-E7-53-40-3C</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\MainPage.xaml</FilePath>
+      <Hash>FE-D0-8C-3C-50-F7-75-77-79-B2-B4-B4-F5-72-CC-A2</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
-      <Hash>4D-B1-09-7A-9F-84-74-68-28-B3-6F-32-2F-4A-60-23</Hash>
-      <Properties />
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\SignUpPage.xaml</FilePath>
+      <Hash>9D-96-D6-DF-84-BB-FF-55-F5-AE-AD-A5-88-BF-40-30</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Users\DAVIDE\OneDrive\Documenti\GitHub\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
-      <Hash>B2-9A-F9-0B-11-EF-C2-97-03-22-6E-14-4F-7C-B3-7F</Hash>
-      <Properties />
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <Hash>09-1B-CE-E1-18-06-3D-AD-1A-AE-18-87-90-20-03-B9</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
+      <Hash>09-8C-81-2A-14-9A-56-DB-7B-15-00-A4-3B-E5-A2-E4</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
     </XamlFileMeta>
   </Files>
 </XamlProjectMeta>

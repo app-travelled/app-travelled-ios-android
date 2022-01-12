@@ -35,6 +35,9 @@
     <style name="Base.V21.Theme.MaterialComponents.Light.Dialog" parent="Base.V14.Theme.MaterialComponents.Light.Dialog">
     <item name="android:alertDialogTheme">@style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework</item>
   </style>
+    <style name="Base.V21.ThemeOverlay.MaterialComponents.BottomSheetDialog" parent="Base.V14.ThemeOverlay.MaterialComponents.BottomSheetDialog">
+    <item name="android:statusBarColor">@android:color/transparent</item>
+  </style>
     <style name="Base.Widget.MaterialComponents.CheckedTextView" parent="android:Widget.Material.CheckedTextView"/>
     <style name="Base.Widget.MaterialComponents.PopupMenu.ContextMenu" parent="Widget.AppCompat.PopupMenu">
     <item name="android:overlapAnchor">true</item>
@@ -85,6 +88,7 @@
     <item name="android:fontFamily">sans-serif-medium</item>
     <item name="android:textStyle">normal</item>
   </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomSheetDialog" parent="Base.V21.ThemeOverlay.MaterialComponents.BottomSheetDialog"/>
     <style name="ThemeOverlay.MaterialComponents.Dialog.Alert.Framework" parent="Base.ThemeOverlay.MaterialComponents.Dialog.Alert.Framework"/>
     <style name="ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" parent="Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework"/>
     <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">

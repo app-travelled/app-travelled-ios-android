@@ -4,6 +4,7 @@ using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
+using Android.Views;
 
 namespace Travelled.Droid
 {
@@ -26,6 +27,8 @@ namespace Travelled.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             Xamarin.FormsMaps.Init(this, savedInstanceState);
+            Window.AddFlags(WindowManagerFlags.TranslucentNavigation);
+            SetStatusBarColor(Android.Graphics.Color.Black);
             LoadApplication(new App());
         }
 

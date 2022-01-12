@@ -37,18 +37,30 @@ public final class R {
     public static final int design_bottom_sheet_slide_out=0x7f010019;
     public static final int design_snackbar_in=0x7f01001a;
     public static final int design_snackbar_out=0x7f01001b;
-    public static final int enterfromleft=0x7f01001c;
-    public static final int enterfromright=0x7f01001d;
-    public static final int exittoleft=0x7f01001e;
-    public static final int exittoright=0x7f01001f;
-    public static final int fragment_fast_out_extra_slow_in=0x7f010020;
-    public static final int mtrl_bottom_sheet_slide_in=0x7f010021;
-    public static final int mtrl_bottom_sheet_slide_out=0x7f010022;
-    public static final int mtrl_card_lowers_interpolator=0x7f010023;
-    public static final int nav_default_enter_anim=0x7f010024;
-    public static final int nav_default_exit_anim=0x7f010025;
-    public static final int nav_default_pop_enter_anim=0x7f010026;
-    public static final int nav_default_pop_exit_anim=0x7f010027;
+    public static final int enter_bottom=0x7f01001c;
+    public static final int enter_left=0x7f01001d;
+    public static final int enter_right=0x7f01001e;
+    public static final int enter_top=0x7f01001f;
+    public static final int enterfromleft=0x7f010020;
+    public static final int enterfromright=0x7f010021;
+    public static final int exit_bottom=0x7f010022;
+    public static final int exit_left=0x7f010023;
+    public static final int exit_right=0x7f010024;
+    public static final int exit_top=0x7f010025;
+    public static final int exittoleft=0x7f010026;
+    public static final int exittoright=0x7f010027;
+    public static final int fade_in=0x7f010028;
+    public static final int fade_out=0x7f010029;
+    public static final int flip_in=0x7f01002a;
+    public static final int flip_out=0x7f01002b;
+    public static final int fragment_fast_out_extra_slow_in=0x7f01002c;
+    public static final int mtrl_bottom_sheet_slide_in=0x7f01002d;
+    public static final int mtrl_bottom_sheet_slide_out=0x7f01002e;
+    public static final int mtrl_card_lowers_interpolator=0x7f01002f;
+    public static final int nav_default_enter_anim=0x7f010030;
+    public static final int nav_default_exit_anim=0x7f010031;
+    public static final int nav_default_pop_enter_anim=0x7f010032;
+    public static final int nav_default_pop_exit_anim=0x7f010033;
   }
   public static final class animator {
     public static final int design_appbar_state_list_animator=0x7f020000;
@@ -44699,13 +44711,16 @@ public final class R {
      */
     public static final int include_constraintSet=0;
   }
+  public static final class transition {
+    public static final int navigation_transition=0x7f110000;
+  }
   public static final class xml {
-    public static final int image_share_filepaths=0x7f110000;
-    public static final int standalone_badge=0x7f110001;
-    public static final int standalone_badge_gravity_bottom_end=0x7f110002;
-    public static final int standalone_badge_gravity_bottom_start=0x7f110003;
-    public static final int standalone_badge_gravity_top_start=0x7f110004;
-    public static final int standalone_badge_offset=0x7f110005;
-    public static final int xamarin_essentials_fileprovider_file_paths=0x7f110006;
+    public static final int image_share_filepaths=0x7f120000;
+    public static final int standalone_badge=0x7f120001;
+    public static final int standalone_badge_gravity_bottom_end=0x7f120002;
+    public static final int standalone_badge_gravity_bottom_start=0x7f120003;
+    public static final int standalone_badge_gravity_top_start=0x7f120004;
+    public static final int standalone_badge_offset=0x7f120005;
+    public static final int xamarin_essentials_fileprovider_file_paths=0x7f120006;
   }
 }
