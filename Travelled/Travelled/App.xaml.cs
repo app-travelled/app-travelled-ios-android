@@ -3,7 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 [assembly: ExportFont("Samantha.ttf")]
 [assembly: ExportFont("Astral_Sisters.ttf")]
-[assembly: ExportFont("SF-Pro-Text-Ultralight.otf")]
+[assembly: ExportFont("CaviarDreams.ttf")]
 
 namespace Travelled
 {

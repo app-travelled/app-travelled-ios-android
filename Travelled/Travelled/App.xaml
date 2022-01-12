@@ -8,7 +8,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <Style TargetType="Label">
-                <Setter Property="FontFamily" Value="SF-Pro-Text-Ultralight" />
+                <Setter Property="FontFamily" Value="CaviarDreams" />
             </Style>
         </ResourceDictionary>
 
