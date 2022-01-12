@@ -5,7 +5,7 @@
 
 <ContentPage.ToolbarItems>
     <ToolbarItem Text="Sign Up" Clicked="OnSignUpButtonClicked" TextColor="Black"/>
-	</ContentPage.ToolbarItems>
+</ContentPage.ToolbarItems>
  
 	<ContentPage.Content>
         
