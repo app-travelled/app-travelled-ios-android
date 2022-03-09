@@ -1,22 +1,35 @@
 ﻿<Properties StartupConfiguration="{E0430ADF-F966-4D39-B238-2DF339B30CD7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelled/Models/Viaggio.cs">
     <Files>
-      <File FileName="Travelled/App.xaml.cs" Line="39" Column="1" />
-      <File FileName="Travelled/MainPage.xaml" Line="8" Column="31" />
+      <File FileName="Travelled/App.xaml.cs" Line="18" Column="14" />
+      <File FileName="Travelled/MainPage.xaml" />
+      <File FileName="Travelled/DB/UserRepository.cs" Line="18" Column="1" />
+      <File FileName="Travelled/AssemblyInfo.cs" />
+      <File FileName="Travelled/AppSettings.cs" />
+      <File FileName="Travelled/LoginPage.xaml.cs" Line="19" Column="4" />
+      <File FileName="Travelled/MainPageCS.cs" />
+      <File FileName="Travelled/LoginPage.xaml" Line="8" Column="28" />
+      <File FileName="Travelled/CreditsPage.xaml" />
+      <File FileName="Travelled/CreditsPage.xaml.cs" />
+      <File FileName="../../../../.nuget/packages/livexaml/2.1.73/build/netstandard2.0/LiveXAML.targets" />
+      <File FileName="Travelled/App.xaml" Line="1" Column="1" />
+      <File FileName="Travelled/LoginPageCS.cs" Line="13" Column="37" />
+      <File FileName="Travelled/DB/ViaggioRepository.cs" Line="1" Column="1" />
+      <File FileName="Travelled/User.cs" Line="12" Column="1" />
+      <File FileName="Travelled/Models/Viaggio.cs" Line="24" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Travelled" expanded="True">
             <Node name="Travelled" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" selected="True" />
+              <Node name="DB" expanded="True" />
               <Node name="Enums" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="Fonts" expanded="True">
-                  <Node name="Astral_Sisters.ttf" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Resources" expanded="True" />
               <Node name="App.xaml" expanded="True" />
+              <Node name="CreditsPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -25,7 +38,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Travelled.Android PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Travelled.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A31E561-FD9F-4BA0-9069-E3E3FDBEFBDD" />
+  <MonoDevelop.Ide.ItemProperties.Travelled.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.440830AD-A640-4247-856E-3CE94E764989" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

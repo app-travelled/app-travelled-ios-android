@@ -14,15 +14,15 @@ namespace Travelled
 
         public App()
         {
-            if (!IsUserLoggedIn)
+            /*if (!IsUserLoggedIn)
             {
-                MainPage = new NavigationPage(new LoginPage()) { BarBackgroundColor=Color.Transparent};
+                MainPage = new NavigationPage(new LoginPage()) { BarBackgroundColor = Color.Transparent };
                 
             }
             else
-            {
+            {*/
                 MainPage = new NavigationPage(new MainPage()) { BarBackgroundColor = Color.Transparent };
-            }
+            //}
         }
 
         protected override void OnStart()

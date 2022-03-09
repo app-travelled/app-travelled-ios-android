@@ -1,8 +1,25 @@
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Travelled.iOS.exe
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Travelled.iOS.pdb
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/BouncyCastle.Crypto.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Google.Protobuf.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Google.Protobuf.pdb
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/K4os.Compression.LZ4.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/K4os.Compression.LZ4.Streams.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/K4os.Hash.xxHash.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/MySql.Data.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Ubiety.Dns.Core.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/ZstdNet.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Buffers.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Configuration.ConfigurationManager.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Memory.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Security.AccessControl.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Security.Permissions.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Security.Principal.Windows.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/System.Text.Encoding.CodePages.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
@@ -46,24 +63,24 @@
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.SharedTransitions.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Travelled.dll
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Travelled.pdb
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/actool/_PartialAppManifest.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/actool/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/actool/_ProcessedImageAssetsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/coremlc/_PartialAppManifest.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/_ProcessedBundleResourcesPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/_ProcessedContentPath.items
+/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.2/optimized/
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.csproj.AssemblyReference.cache
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.csproj.CoreCompileInputs.cache
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.csproj.CopyComplete
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.exe
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/Travelled.iOS.pdb
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/bin/iPhoneSimulator/Debug/Plugin.SharedTransitions.dll
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_PartialAppManifest.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/actool/_ProcessedImageAssetsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/ibtool/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_PartialAppManifest.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_BundleResourceWithLogicalName.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/coremlc/_ProcessedCoreMLModelsPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/_ProcessedBundleResourcesPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/_ProcessedContentPath.items
-/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.0/optimized/

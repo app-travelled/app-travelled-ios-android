@@ -1,0 +1,19 @@
+objc[27125]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x7fff87c19608) and /Users/Federico/Library/Developer/CoreSimulator/Devices/440830AD-A640-4247-856E-3CE94E764989/data/Containers/Bundle/Application/E6B35A47-620B-4EDC-9A33-93C435586728/Travelled.iOS.app/Travelled.iOS (0x11002ff40). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2022-03-07 11:53:16.960248+0100 Travelled.iOS[27125:2056610] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=27125
+2022-03-07 11:53:16.960586+0100 Travelled.iOS[27125:2056610] SecTaskCopyDebugDescription: Travelled.iOS[27125]/0#-1 LF=0
+2022-03-07 11:53:16.970651+0100 Travelled.iOS[27125:2056610] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=27125
+2022-03-07 11:53:16.971115+0100 Travelled.iOS[27125:2056610] SecTaskCopyDebugDescription: Travelled.iOS[27125]/0#-1 LF=0
+2022-03-07 11:53:17.847029+0100 Travelled.iOS[27125:2056670] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=27125
+2022-03-07 11:53:17.847486+0100 Travelled.iOS[27125:2056670] SecTaskCopyDebugDescription: Travelled.iOS[27125]/0#-1 LF=0
+2022-03-07 11:53:17.858048+0100 Travelled.iOS[27125:2056610] fopen failed for data file: errno = 2 (No such file or directory)
+2022-03-07 11:53:17.858420+0100 Travelled.iOS[27125:2056610] Errors found! Invalidating cache...
+2022-03-07 11:53:18.001656+0100 Travelled.iOS[27125:2056610] fopen failed for data file: errno = 2 (No such file or directory)
+2022-03-07 11:53:18.002218+0100 Travelled.iOS[27125:2056610] Errors found! Invalidating cache...
+2022-03-07 11:53:19.536951+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Africa North Europe Central Shields
+2022-03-07 11:53:19.595636+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Europe East Icons
+2022-03-07 11:53:19.596203+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Rome Custom Icons
+2022-03-07 11:53:19.596666+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Rome Custom Icons
+2022-03-07 11:53:19.603110+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Africa North Europe Central Shields
+2022-03-07 11:53:19.604233+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Africa North Europe Central Shields
+2022-03-07 11:53:19.606862+0100 Travelled.iOS[27125:2056780] [IconManager] No config pack found for key Africa North Europe Central Shields

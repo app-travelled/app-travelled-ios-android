@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Xamarin.Forms;
 
 namespace Travelled
@@ -7,7 +7,7 @@ namespace Travelled
 	{
 		public LoginPage()
 		{
-			InitializeComponent();
+            InitializeComponent();
 		}
 
 		async void OnSignUpButtonClicked(object sender, EventArgs e)

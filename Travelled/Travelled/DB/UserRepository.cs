@@ -201,8 +201,7 @@ namespace Travelled.DB
 
         public Boolean updateUser(User newUser)
         {
-            string query = "UPDATE " + TABELLA_USER + " SET " + COLONNA_USERNAME + "=@username, " + COLONNA_PASSWORD + "=@password" + COLONNA_EMAIL + "=@email" +
-                            +" WHERE " + COLONNA_ID + "=@id";
+            string query = "UPDATE " + TABELLA_USER + " SET " + COLONNA_USERNAME + "=@username, " + COLONNA_PASSWORD + "=@password" + COLONNA_EMAIL + "=@email" + " WHERE " + COLONNA_ID + "=@id";
 
             MySqlCommand command = new MySqlCommand(query, connection);
             command.Parameters.Add("@id", MySqlDbType.Int64);

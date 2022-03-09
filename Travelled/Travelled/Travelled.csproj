@@ -19,23 +19,35 @@
     <None Remove="Xamarin.Plugin.SharedTransitions" />
     <None Remove="Enums\" />
     <None Remove="Resources\Fonts\Astral_Sisters.ttf" />
+    <None Remove="AWSSDK.CognitoIdentity" />
+    <None Remove="AWSSDK.CognitoIdentityProvider" />
+    <None Remove="Amazon.Extensions.CognitoAuthentication" />
+    <None Remove="Amazon.AspNetCore.Identity.Cognito" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Remove="LoginPage.xaml" />
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\Fonts\Astral_Sisters.ttf" />
     <EmbeddedResource Include="Resources\Fonts\CaviarDreams.ttf" />
     <EmbeddedResource Include="Resources\Fonts\Samantha.ttf" />
     <EmbeddedResource Include="Resources\Fonts\SF-Pro-Text-Ultralight.otf" />
+    <EmbeddedResource Include="DB\UserRepository.cs" Condition=" '$(EnableDefaultCompileItems)' == 'true' " />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="LiveXAML" Version="2.1.73" />
-    <PackageReference Include="MySql.Data" Version="8.0.27" />
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
     <PackageReference Include="Plugin.Share" Version="7.1.1" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2291" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
-    <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2291" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2337" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.1" />
+    <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2337" />
     <PackageReference Include="Xamarin.Plugin.SharedTransitions" Version="2.4.0" />
+    <PackageReference Include="AWSSDK.CognitoIdentity" Version="3.7.0.133" />
+    <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.1.105" />
+    <PackageReference Include="Amazon.Extensions.CognitoAuthentication" Version="2.2.2" />
+    <PackageReference Include="Amazon.AspNetCore.Identity.Cognito" Version="3.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -45,6 +57,9 @@
     <EmbeddedResource Update="Visited.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Login.xaml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Enums\" />
@@ -52,5 +67,9 @@
   <ItemGroup>
     <Resource Include="Resources\file_path.xml" />
     <Resource Include="Resources\Fonts\SF-Pro-Text-Light.otf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="DB\UserRepository.cs" />
+    <Compile Remove="LoginPage.xaml.cs" />
   </ItemGroup>
 </Project>

@@ -13,6 +13,8 @@ namespace Travelled.Models
         private string citta;
         private string descrizione;
 
+
+
         public int Id { get => id; set => id = value; }
         public int Id_user { get => id_user; set => id_user = value; }
         //add fine data viaggio

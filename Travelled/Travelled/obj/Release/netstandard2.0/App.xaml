@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Travelled.App" xmlns:__xl="clr-namespace:__livexaml" __xl:Runtime.Register="C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\App.xaml">
-  <Application.Resources></Application.Resources>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Travelled.App" xmlns:__xl="clr-namespace:__livexaml" __xl:Runtime.Register="/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/App.xaml">
+  <Application.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Label">
+        <Setter Property="FontFamily" Value="CaviarDreams" />
+      </Style>
+    </ResourceDictionary>
+  </Application.Resources>
 </Application>

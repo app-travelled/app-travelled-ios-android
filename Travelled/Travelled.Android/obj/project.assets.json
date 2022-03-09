@@ -2,6 +2,68 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v11.0": {
+      "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.2",
+          "AWSSDK.CognitoIdentityProvider": "3.7.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.7.0.133": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.7, 4.0.0)",
+          "AWSSDK.SecurityToken": "[3.7.1.125, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentityProvider/3.7.1.105": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.7, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.8.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.SecurityToken/3.7.1.125": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.7, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {}
+        }
+      },
       "BouncyCastle.NetCore/1.8.5": {
         "type": "package",
         "compile": {
@@ -67,6 +129,18 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "compile": {
+          "ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -76,7 +150,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MySql.Data/8.0.27": {
+      "MySql.Data/8.0.28": {
         "type": "package",
         "dependencies": {
           "BouncyCastle.NetCore": "1.8.5",
@@ -245,6 +319,15 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/MonoAndroid10/_._": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/_._": {}
         }
       },
       "Xamarin.Android.Support.Annotations/25.4.0.2": {
@@ -1975,12 +2058,15 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.133",
+          "AWSSDK.CognitoIdentityProvider": "3.7.1.105",
+          "Amazon.Extensions.CognitoAuthentication": "2.2.2",
           "LiveXAML": "2.1.73",
-          "MySql.Data": "8.0.27",
+          "MySql.Data": "8.0.28",
           "Plugin.Share": "7.1.1",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2291",
-          "Xamarin.Forms.Maps": "5.0.0.2291",
+          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Forms": "5.0.0.2337",
+          "Xamarin.Forms.Maps": "5.0.0.2337",
           "Xamarin.Plugin.SharedTransitions": "2.4.0"
         },
         "compile": {
@@ -1993,6 +2079,126 @@
     }
   },
   "libraries": {
+    "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+      "sha512": "BL/xtFyZfQsdT6IV8XuxFsiXNcUmu0TJU+eZo2pJOOYu/1zIoiQh1jEPmd+RwKw4ZjnDF0OLU8RHOj77NnFn/Q==",
+      "type": "package",
+      "path": "amazon.extensions.cognitoauthentication/2.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "amazon.extensions.cognitoauthentication.2.2.2.nupkg.sha512",
+        "amazon.extensions.cognitoauthentication.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll"
+      ]
+    },
+    "AWSSDK.CognitoIdentity/3.7.0.133": {
+      "sha512": "f0x38EsXl8EMtxqSilHFCNfUsUQJ0wD/MD0YtLbYGR1Oo1kuzVFin8wGThLFd5raKzpYrPjunJb2uG2utOFqow==",
+      "type": "package",
+      "path": "awssdk.cognitoidentity/3.7.0.133",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.CognitoIdentity.CodeAnalysis.dll",
+        "awssdk.cognitoidentity.3.7.0.133.nupkg.sha512",
+        "awssdk.cognitoidentity.nuspec",
+        "lib/net35/AWSSDK.CognitoIdentity.dll",
+        "lib/net35/AWSSDK.CognitoIdentity.pdb",
+        "lib/net35/AWSSDK.CognitoIdentity.xml",
+        "lib/net45/AWSSDK.CognitoIdentity.dll",
+        "lib/net45/AWSSDK.CognitoIdentity.pdb",
+        "lib/net45/AWSSDK.CognitoIdentity.xml",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.dll",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.pdb",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.xml",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.pdb",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.CognitoIdentityProvider/3.7.1.105": {
+      "sha512": "jcJFRUCl191FQtzV4TxHcVMkMrYO2+Eq0WzdnDEH0VSdP9FK8t6TnHUwElvqUBMq/CieTlMYrLTF47Plp7KHnA==",
+      "type": "package",
+      "path": "awssdk.cognitoidentityprovider/3.7.1.105",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.CognitoIdentityProvider.CodeAnalysis.dll",
+        "awssdk.cognitoidentityprovider.3.7.1.105.nupkg.sha512",
+        "awssdk.cognitoidentityprovider.nuspec",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.Core/3.7.8.7": {
+      "sha512": "v3OnjYP2pbKqcW+JO7scQPohXigahwmwd8ICNS/GdsSMW7jIxnqWwoNrI3/OcVRN6+dBwUe5QpCT/2d9k9w85w==",
+      "type": "package",
+      "path": "awssdk.core/3.7.8.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.8.7.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.SecurityToken/3.7.1.125": {
+      "sha512": "2pROPMv8tNnApj3AKd898e+zgqYtQDE/Wb4ufk0FL2Bidk0XfiM3iwesOxZ9a+oekw7CjsY/RX2PtcpeFdtnUQ==",
+      "type": "package",
+      "path": "awssdk.securitytoken/3.7.1.125",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.SecurityToken.CodeAnalysis.dll",
+        "awssdk.securitytoken.3.7.1.125.nupkg.sha512",
+        "awssdk.securitytoken.nuspec",
+        "lib/net35/AWSSDK.SecurityToken.dll",
+        "lib/net35/AWSSDK.SecurityToken.pdb",
+        "lib/net35/AWSSDK.SecurityToken.xml",
+        "lib/net45/AWSSDK.SecurityToken.dll",
+        "lib/net45/AWSSDK.SecurityToken.pdb",
+        "lib/net45/AWSSDK.SecurityToken.xml",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.dll",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.pdb",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.xml",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.dll",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.pdb",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "BouncyCastle.NetCore/1.8.5": {
       "sha512": "6uxsQw2UXrt82VQAWC2td3oBSJjUZ3P4u4DliagB8wf67KsU53V8sW9xwdF+IwZOOZFR0TCZuv/YKZ2BlrfAag==",
       "type": "package",
@@ -2118,6 +2324,30 @@
         "livexaml.nuspec"
       ]
     },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "type": "package",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml",
+        "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+        "microsoft.bcl.asyncinterfaces.nuspec",
+        "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -2133,10 +2363,10 @@
         "runtime.json"
       ]
     },
-    "MySql.Data/8.0.27": {
-      "sha512": "Ef+sH12/nGAiF9yLZFkuXh7vtVvEPiLKyZNJiDk+VBULzLcXj0lmfU7qcmWNCSVX5n6zu5jMV+JaNf1C+a+T8g==",
+    "MySql.Data/8.0.28": {
+      "sha512": "7b699tU9ba0r7SBK7K9snGJB9ulnOdwEXG28kpVvaQSN0hHenfoJ/ADOtdfhcvcn1KStBX8pFK5qIl8scdBL2g==",
       "type": "package",
-      "path": "mysql.data/8.0.27",
+      "path": "mysql.data/8.0.28",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2152,6 +2382,10 @@
         "lib/net5.0/MySql.Data.xml",
         "lib/net5.0/Ubiety.Dns.Core.dll",
         "lib/net5.0/ZstdNet.dll",
+        "lib/net6.0/MySql.Data.dll",
+        "lib/net6.0/MySql.Data.xml",
+        "lib/net6.0/Ubiety.Dns.Core.dll",
+        "lib/net6.0/ZstdNet.dll",
         "lib/netstandard2.0/MySql.Data.dll",
         "lib/netstandard2.0/MySql.Data.xml",
         "lib/netstandard2.0/Ubiety.Dns.Core.dll",
@@ -2160,7 +2394,7 @@
         "lib/netstandard2.1/MySql.Data.xml",
         "lib/netstandard2.1/Ubiety.Dns.Core.dll",
         "lib/netstandard2.1/ZstdNet.dll",
-        "mysql.data.8.0.27.nupkg.sha512",
+        "mysql.data.8.0.28.nupkg.sha512",
         "mysql.data.nuspec"
       ]
     },
@@ -2669,6 +2903,41 @@
         "runtimes/win/lib/netstandard2.0/System.Text.Encoding.CodePages.dll",
         "system.text.encoding.codepages.4.4.0.nupkg.sha512",
         "system.text.encoding.codepages.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "sha512": "BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "type": "package",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.xml",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/netcoreapp2.1/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+        "system.threading.tasks.extensions.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -4441,42 +4710,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Skesky\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/Federico/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
+      "projectUniqueName": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.Android/Travelled.Android.csproj",
       "projectName": "Travelled.Android",
-      "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
-      "packagesPath": "C:\\Users\\Skesky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\obj\\",
+      "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.Android/Travelled.Android.csproj",
+      "packagesPath": "/Users/Federico/.nuget/packages/",
+      "outputPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Skesky\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/Federico/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj": {
-              "projectPath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled\\Travelled.csproj"
+            "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj": {
+              "projectPath": "/Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/Travelled.csproj"
             }
           }
         }
@@ -4518,8 +4777,8 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.Android -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2291) \r\n Travelled.Android -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
-      "libraryId": "Xamarin.Forms.Maps",
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.1 to 1.7.0. Reference the package directly from the project to select a different version. \n Travelled.Android -> Travelled -> Xamarin.Essentials (>= 1.7.1) \n Travelled.Android -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
       "targetGraphs": [
         "MonoAndroid,Version=v11.0"
       ]
@@ -4528,8 +4787,18 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.Android -> Travelled -> Xamarin.Forms (>= 5.0.0.2291) \r\n Travelled.Android -> Xamarin.Forms (>= 5.0.0.2244)",
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2337 to 5.0.0.2244. Reference the package directly from the project to select a different version. \n Travelled.Android -> Travelled -> Xamarin.Forms (>= 5.0.0.2337) \n Travelled.Android -> Xamarin.Forms (>= 5.0.0.2244)",
       "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v11.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2337 to 5.0.0.2244. Reference the package directly from the project to select a different version. \n Travelled.Android -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2337) \n Travelled.Android -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
+      "libraryId": "Xamarin.Forms.Maps",
       "targetGraphs": [
         "MonoAndroid,Version=v11.0"
       ]
