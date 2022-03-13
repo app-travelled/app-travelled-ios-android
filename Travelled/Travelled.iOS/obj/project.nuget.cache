@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sRl4zUQRTF20or+dOyfpItGKICzsPGRgk7HJkSgTnDxReqOd9CwqFGfXH3mw3a3Ge2u0aMtLN26hUaypsoxU5A==",
+  "dgSpecHash": "0dQ08NILmfleg2EtorakwSda0Xpc/81zai1JacMPYjWMMU5P6V2gVqSX8/glPRULDnVDWbxOQ1jt+rqLpPSShQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.iOS\\Travelled.iOS.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\Skesky\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\mysql.data\\8.0.27\\mysql.data.8.0.27.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
@@ -21,37 +21,10 @@
     "C:\\Users\\Skesky\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2244\\xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2337\\xamarin.forms.maps.5.0.0.2337.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
-      "libraryId": "Xamarin.Forms.Maps",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.iOS -> Travelled -> Xamarin.Forms (>= 5.0.0.2291) \r\n Travelled.iOS -> Xamarin.Forms (>= 5.0.0.2244)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  "logs": []
 }

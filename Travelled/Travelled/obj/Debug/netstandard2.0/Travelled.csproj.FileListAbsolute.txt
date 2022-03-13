@@ -52,11 +52,6 @@ E:/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/SignUpPage.xaml.g.cs
 /Users/Federico/github/app-travelled/app-travelled-ios-android/Travelled/Travelled/obj/Debug/netstandard2.0/CreditsPage.xaml.g.cs
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.deps.json
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.dll
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\ref\Travelled.dll
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.pdb
-C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.AssemblyReference.cache
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\CreditsPage.xaml.g.cs
@@ -68,6 +63,11 @@ C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfoInputs.cache
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.AssemblyInfo.cs
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.CoreCompileInputs.cache
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.deps.json
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.dll
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\ref\Travelled.dll
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\bin\Debug\netstandard2.0\Travelled.pdb
+C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.csproj.AssemblyReference.cache
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\Travelled.dll
 C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\obj\Debug\netstandard2.0\ref\Travelled.dll

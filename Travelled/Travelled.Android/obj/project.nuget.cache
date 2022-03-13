@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U1UKGt+kKVbs+JsWXrny4VyCXzddlmkfsF5RMmYO2JKobZrpO9dZtfAiIR9CMSYffcU9y0ceN240qIVmE/UfDA==",
+  "dgSpecHash": "Zu+LCTtWJbpVj5+Nd+0jmSLv5iPMhvlTxaJEZzSw8aBfFF1rhbZ7fKELDJX5oo5BGrg1GTZttMrcRn0+ZVLmYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Skesky\\Desktop\\Github\\app-travelled-ios-android\\Travelled\\Travelled.Android\\Travelled.Android.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "C:\\Users\\Skesky\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\mysql.data\\8.0.27\\mysql.data.8.0.27.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\plugin.currentactivity\\1.0.1\\plugin.currentactivity.1.0.1.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
@@ -81,37 +81,16 @@
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2244\\xamarin.forms.maps.5.0.0.2244.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2337\\xamarin.forms.maps.5.0.0.2337.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.base\\117.6.0.2\\xamarin.googleplayservices.base.117.6.0.2.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.basement\\117.6.0.3\\xamarin.googleplayservices.basement.117.6.0.3.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.maps\\117.0.1.2\\xamarin.googleplayservices.maps.117.0.1.2.nupkg.sha512",
-    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.tasks\\117.2.1.2\\xamarin.googleplayservices.tasks.117.2.1.2.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.base\\117.6.0.3\\xamarin.googleplayservices.base.117.6.0.3.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.basement\\117.6.0.4\\xamarin.googleplayservices.basement.117.6.0.4.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.maps\\117.0.1.3\\xamarin.googleplayservices.maps.117.0.1.3.nupkg.sha512",
+    "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.googleplayservices.tasks\\117.2.1.3\\xamarin.googleplayservices.tasks.117.2.1.3.nupkg.sha512",
     "C:\\Users\\Skesky\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms.Maps from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.Android -> Travelled -> Xamarin.Forms.Maps (>= 5.0.0.2291) \r\n Travelled.Android -> Xamarin.Forms.Maps (>= 5.0.0.2244)",
-      "libraryId": "Xamarin.Forms.Maps",
-      "targetGraphs": [
-        "MonoAndroid,Version=v11.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2244. Reference the package directly from the project to select a different version. \r\n Travelled.Android -> Travelled -> Xamarin.Forms (>= 5.0.0.2291) \r\n Travelled.Android -> Xamarin.Forms (>= 5.0.0.2244)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "MonoAndroid,Version=v11.0"
-      ]
-    }
-  ]
+  "logs": []
 }
