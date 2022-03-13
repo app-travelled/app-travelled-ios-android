@@ -123,6 +123,15 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Amazon.Extensions.CognitoAuthentication">
+      <Version>2.2.2</Version>
+    </PackageReference>
+    <PackageReference Include="AWSSDK.CognitoIdentity">
+      <Version>3.7.0.135</Version>
+    </PackageReference>
+    <PackageReference Include="AWSSDK.CognitoIdentityProvider">
+      <Version>3.7.1.107</Version>
+    </PackageReference>
     <PackageReference Include="Plugin.Share">
       <Version>7.1.1</Version>
     </PackageReference>

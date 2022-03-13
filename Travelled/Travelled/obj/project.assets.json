@@ -2,6 +2,68 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.2",
+          "AWSSDK.CognitoIdentityProvider": "3.7.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.7.0.135": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.9, 4.0.0)",
+          "AWSSDK.SecurityToken": "[3.7.1.127, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentityProvider/3.7.1.107": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.9, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.8.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.SecurityToken/3.7.1.127": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.8.9, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {}
+        }
+      },
       "BouncyCastle.NetCore/1.8.5": {
         "type": "package",
         "compile": {
@@ -65,6 +127,18 @@
         "type": "package",
         "build": {
           "build/netstandard2.0/LiveXAML.targets": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "compile": {
+          "ref/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -256,6 +330,18 @@
           }
         }
       },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.7.1": {
         "type": "package",
         "dependencies": {
@@ -312,6 +398,126 @@
     }
   },
   "libraries": {
+    "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+      "sha512": "BL/xtFyZfQsdT6IV8XuxFsiXNcUmu0TJU+eZo2pJOOYu/1zIoiQh1jEPmd+RwKw4ZjnDF0OLU8RHOj77NnFn/Q==",
+      "type": "package",
+      "path": "amazon.extensions.cognitoauthentication/2.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "amazon.extensions.cognitoauthentication.2.2.2.nupkg.sha512",
+        "amazon.extensions.cognitoauthentication.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll"
+      ]
+    },
+    "AWSSDK.CognitoIdentity/3.7.0.135": {
+      "sha512": "XjdroUzFBkmCGstucgX8U1PqzDm93uQPaxjOxl2WKQeo1vTl9+6EI8ec/ketcIyaAvNgFAKWVTz0+ee7tx2ISg==",
+      "type": "package",
+      "path": "awssdk.cognitoidentity/3.7.0.135",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.CognitoIdentity.CodeAnalysis.dll",
+        "awssdk.cognitoidentity.3.7.0.135.nupkg.sha512",
+        "awssdk.cognitoidentity.nuspec",
+        "lib/net35/AWSSDK.CognitoIdentity.dll",
+        "lib/net35/AWSSDK.CognitoIdentity.pdb",
+        "lib/net35/AWSSDK.CognitoIdentity.xml",
+        "lib/net45/AWSSDK.CognitoIdentity.dll",
+        "lib/net45/AWSSDK.CognitoIdentity.pdb",
+        "lib/net45/AWSSDK.CognitoIdentity.xml",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.dll",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.pdb",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.xml",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.pdb",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentity.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.CognitoIdentityProvider/3.7.1.107": {
+      "sha512": "FvcnhMAo6gl1MIDRVl+KMTssGxyhOWusxzmkeI1tOchPg0z+jjyTgA2JuBSzxdqDBEetHB7rsppu+tNTno5ycQ==",
+      "type": "package",
+      "path": "awssdk.cognitoidentityprovider/3.7.1.107",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.CognitoIdentityProvider.CodeAnalysis.dll",
+        "awssdk.cognitoidentityprovider.3.7.1.107.nupkg.sha512",
+        "awssdk.cognitoidentityprovider.nuspec",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/net35/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/net45/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/netcoreapp3.1/AWSSDK.CognitoIdentityProvider.xml",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.pdb",
+        "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.Core/3.7.8.9": {
+      "sha512": "z6QrtbaOulwSKhWqcBtSmOUk6FAMtSR9EuclukS9qIovqIxjfKGjJB1K+01dXiiyGn34OhIPf+JxBETu5WPAFw==",
+      "type": "package",
+      "path": "awssdk.core/3.7.8.9",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.8.9.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.SecurityToken/3.7.1.127": {
+      "sha512": "UlZEPremrYKP28/VOfdNvh+NZTrWPGSF0ZJVugI+T2V6m3NtKuLL4mCdNp7H5XCTANWgfhusQDpY6YfqiXRBEw==",
+      "type": "package",
+      "path": "awssdk.securitytoken/3.7.1.127",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.SecurityToken.CodeAnalysis.dll",
+        "awssdk.securitytoken.3.7.1.127.nupkg.sha512",
+        "awssdk.securitytoken.nuspec",
+        "lib/net35/AWSSDK.SecurityToken.dll",
+        "lib/net35/AWSSDK.SecurityToken.pdb",
+        "lib/net35/AWSSDK.SecurityToken.xml",
+        "lib/net45/AWSSDK.SecurityToken.dll",
+        "lib/net45/AWSSDK.SecurityToken.pdb",
+        "lib/net45/AWSSDK.SecurityToken.xml",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.dll",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.pdb",
+        "lib/netcoreapp3.1/AWSSDK.SecurityToken.xml",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.dll",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.pdb",
+        "lib/netstandard2.0/AWSSDK.SecurityToken.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "BouncyCastle.NetCore/1.8.5": {
       "sha512": "6uxsQw2UXrt82VQAWC2td3oBSJjUZ3P4u4DliagB8wf67KsU53V8sW9xwdF+IwZOOZFR0TCZuv/YKZ2BlrfAag==",
       "type": "package",
@@ -435,6 +641,30 @@
         "build/portable-win+net45+wp80+win81+wpa81/minified.tpl.cs",
         "livexaml.2.1.73.nupkg.sha512",
         "livexaml.nuspec"
+      ]
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "type": "package",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml",
+        "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+        "microsoft.bcl.asyncinterfaces.nuspec",
+        "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
@@ -1022,6 +1252,41 @@
         "version.txt"
       ]
     },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "sha512": "BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "type": "package",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.xml",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/netcoreapp2.1/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+        "system.threading.tasks.extensions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "Xamarin.Essentials/1.7.1": {
       "sha512": "u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
       "type": "package",
@@ -1336,6 +1601,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "AWSSDK.CognitoIdentity >= 3.7.0.135",
+      "AWSSDK.CognitoIdentityProvider >= 3.7.1.107",
+      "Amazon.Extensions.CognitoAuthentication >= 2.2.2",
       "LiveXAML >= 2.1.73",
       "MySql.Data >= 8.0.28",
       "NETStandard.Library >= 2.0.3",
@@ -1393,6 +1661,18 @@
       "netstandard2.0": {
         "targetAlias": "netstandard2.0",
         "dependencies": {
+          "AWSSDK.CognitoIdentity": {
+            "target": "Package",
+            "version": "[3.7.0.135, )"
+          },
+          "AWSSDK.CognitoIdentityProvider": {
+            "target": "Package",
+            "version": "[3.7.1.107, )"
+          },
+          "Amazon.Extensions.CognitoAuthentication": {
+            "target": "Package",
+            "version": "[2.2.2, )"
+          },
           "LiveXAML": {
             "target": "Package",
             "version": "[2.1.73, )"

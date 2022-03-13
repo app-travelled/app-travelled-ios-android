@@ -4,7 +4,7 @@
 			 x:Class="Travelled.LoginPage" Title="Login">
 
 	<ContentPage.ToolbarItems>
-        <ToolbarItem Text="Sign Up" Clicked="OnSignUpButtonClicked" />
+        <ToolbarItem Text="Sign Up" Clicked="OnSignUpButtonClicked"/>
     </ContentPage.ToolbarItems>
 
     <ContentPage.Content>

@@ -35,14 +35,14 @@
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Tovisit.xaml</FilePath>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Views\Tovisit.xaml</FilePath>
       <Hash>09-1B-CE-E1-18-06-3D-AD-1A-AE-18-87-90-20-03-B9</Hash>
       <Properties>
         <string>Title</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Visited.xaml</FilePath>
+      <FilePath>C:\Users\Skesky\Desktop\Github\app-travelled-ios-android\Travelled\Travelled\Views\Visited.xaml</FilePath>
       <Hash>09-8C-81-2A-14-9A-56-DB-7B-15-00-A4-3B-E5-A2-E4</Hash>
       <Properties>
         <string>Title</string>

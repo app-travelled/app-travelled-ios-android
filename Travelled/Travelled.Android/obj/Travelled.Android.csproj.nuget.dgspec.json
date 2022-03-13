@@ -44,6 +44,18 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.7.0.135, )"
+            },
+            "AWSSDK.CognitoIdentityProvider": {
+              "target": "Package",
+              "version": "[3.7.1.107, )"
+            },
+            "Amazon.Extensions.CognitoAuthentication": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "NETStandard.Library": {
               "target": "Package",
               "version": "[2.0.3, )"
@@ -114,6 +126,18 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.7.0.135, )"
+            },
+            "AWSSDK.CognitoIdentityProvider": {
+              "target": "Package",
+              "version": "[3.7.1.107, )"
+            },
+            "Amazon.Extensions.CognitoAuthentication": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "LiveXAML": {
               "target": "Package",
               "version": "[2.1.73, )"

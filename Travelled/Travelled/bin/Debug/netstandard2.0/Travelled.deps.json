@@ -9,6 +9,9 @@
     ".NETStandard,Version=v2.0/": {
       "Travelled/1.0.0": {
         "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.135",
+          "AWSSDK.CognitoIdentityProvider": "3.7.1.107",
+          "Amazon.Extensions.CognitoAuthentication": "2.2.2",
           "LiveXAML": "2.1.73",
           "MySql.Data": "8.0.28",
           "NETStandard.Library": "2.0.3",
@@ -20,6 +23,63 @@
         },
         "runtime": {
           "Travelled.dll": {}
+        }
+      },
+      "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.135",
+          "AWSSDK.CognitoIdentityProvider": "3.7.1.107"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.7.0.135": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.9",
+          "AWSSDK.SecurityToken": "3.7.1.127"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.135"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentityProvider/3.7.1.107": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.107"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.8.9": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.8.9"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.7.1.127": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.127"
+          }
         }
       },
       "BouncyCastle.NetCore/1.8.5": {
@@ -77,6 +137,17 @@
         }
       },
       "LiveXAML/2.1.73": {},
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "MySql.Data/8.0.28": {
         "dependencies": {
@@ -218,6 +289,17 @@
           }
         }
       },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        }
+      },
       "Xamarin.Essentials/1.7.1": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -275,6 +357,41 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Amazon.Extensions.CognitoAuthentication/2.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BL/xtFyZfQsdT6IV8XuxFsiXNcUmu0TJU+eZo2pJOOYu/1zIoiQh1jEPmd+RwKw4ZjnDF0OLU8RHOj77NnFn/Q==",
+      "path": "amazon.extensions.cognitoauthentication/2.2.2",
+      "hashPath": "amazon.extensions.cognitoauthentication.2.2.2.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentity/3.7.0.135": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XjdroUzFBkmCGstucgX8U1PqzDm93uQPaxjOxl2WKQeo1vTl9+6EI8ec/ketcIyaAvNgFAKWVTz0+ee7tx2ISg==",
+      "path": "awssdk.cognitoidentity/3.7.0.135",
+      "hashPath": "awssdk.cognitoidentity.3.7.0.135.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentityProvider/3.7.1.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FvcnhMAo6gl1MIDRVl+KMTssGxyhOWusxzmkeI1tOchPg0z+jjyTgA2JuBSzxdqDBEetHB7rsppu+tNTno5ycQ==",
+      "path": "awssdk.cognitoidentityprovider/3.7.1.107",
+      "hashPath": "awssdk.cognitoidentityprovider.3.7.1.107.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z6QrtbaOulwSKhWqcBtSmOUk6FAMtSR9EuclukS9qIovqIxjfKGjJB1K+01dXiiyGn34OhIPf+JxBETu5WPAFw==",
+      "path": "awssdk.core/3.7.8.9",
+      "hashPath": "awssdk.core.3.7.8.9.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.7.1.127": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UlZEPremrYKP28/VOfdNvh+NZTrWPGSF0ZJVugI+T2V6m3NtKuLL4mCdNp7H5XCTANWgfhusQDpY6YfqiXRBEw==",
+      "path": "awssdk.securitytoken/3.7.1.127",
+      "hashPath": "awssdk.securitytoken.3.7.1.127.nupkg.sha512"
+    },
     "BouncyCastle.NetCore/1.8.5": {
       "type": "package",
       "serviceable": true,
@@ -316,6 +433,13 @@
       "sha512": "sha512-WuyZAgaVvGIN4MoOR5VK3X8PFiCv3swffxzMd6Nf7cJIf32zCjbTgrkasY5K8NSNZ2U4y2nFgLAZ4oeqUvueEA==",
       "path": "livexaml/2.1.73",
       "hashPath": "livexaml.2.1.73.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
@@ -414,6 +538,13 @@
       "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
       "path": "system.text.encoding.codepages/4.4.0",
       "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "hashPath": "system.threading.tasks.extensions.4.5.2.nupkg.sha512"
     },
     "Xamarin.Essentials/1.7.1": {
       "type": "package",

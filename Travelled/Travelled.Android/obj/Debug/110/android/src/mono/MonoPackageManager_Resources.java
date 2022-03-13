@@ -3,12 +3,18 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Travelled.Android.dll" comes first in this list. */
 		"Travelled.Android.dll",
+		"Amazon.Extensions.CognitoAuthentication.dll",
+		"AWSSDK.CognitoIdentity.dll",
+		"AWSSDK.CognitoIdentityProvider.dll",
+		"AWSSDK.Core.dll",
+		"AWSSDK.SecurityToken.dll",
 		"BouncyCastle.Crypto.dll",
 		"FormsViewGroup.dll",
 		"Google.Protobuf.dll",
 		"K4os.Compression.LZ4.dll",
 		"K4os.Compression.LZ4.Streams.dll",
 		"K4os.Hash.xxHash.dll",
+		"Microsoft.Bcl.AsyncInterfaces.dll",
 		"MySql.Data.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Share.Abstractions.dll",

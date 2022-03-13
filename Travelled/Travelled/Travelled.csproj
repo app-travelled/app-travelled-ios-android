@@ -29,6 +29,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Amazon.Extensions.CognitoAuthentication" Version="2.2.2" />
+    <PackageReference Include="AWSSDK.CognitoIdentity" Version="3.7.0.135" />
+    <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.1.107" />
     <PackageReference Include="LiveXAML" Version="2.1.73" />
     <PackageReference Include="MySql.Data" Version="8.0.28" />
     <PackageReference Include="Plugin.Share" Version="7.1.1" />
@@ -39,10 +42,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Tovisit.xaml">
+    <EmbeddedResource Update="Views\Tovisit.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Visited.xaml">
+    <EmbeddedResource Update="Views\Visited.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
